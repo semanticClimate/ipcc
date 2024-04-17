@@ -1,0 +1,1864 @@
+para_id,countries
+ar6/test/wg1/chapter-1#cross-chapter-box-1.1_p1,|['China', 'United States', 'Germany', 'United Kingdom', 'Spain', 'Canada', 'Australia', 'Chile', 'Senegal', 'Belgium', 'Switzerland']|
+ar6/test/wg1/chapter-1#1.3.1_p5,|['China', 'Japan']|
+ar6/test/wg1/chapter-1#1.3.2_p3,['China']
+ar6/test/wg1/chapter-4#cross-chapter-box-4.1_p1,|['China', 'United States', 'Germany', 'United Kingdom', 'Canada', 'Australia', 'Switzerland', 'Argentina', 'France', 'Italy', 'Sweden']|
+ar6/test/wg1/chapter-3#cross-chapter-box-3.2_p1,|['China', 'Canada', 'India']|
+ar6/test/wg1/chapter-3#3.6.1_p11,|['China', 'India']|
+ar6/test/wg1/chapter-2#2.2.6_p8,['China']
+ar6/test/wg1/chapter-2#2.3.1.1.3_p8,['China']
+ar6/test/wg1/chapter-2#2.3.1.1.3_p10,['China']
+ar6/test/wg1/chapter-2#2.3.4.3.1_p2,|['China', 'United States', 'Canada', 'Japan', 'France', 'South Korea']|
+ar6/test/wg1/chapter-2#2.3.4.3.3_p2,|['China', 'India']|
+ar6/test/wg1/chapter-2#cross-chapter-box-2.4_p1,|['China', 'United States', 'Germany', 'United Kingdom']|
+ar6/test/wg1/chapter-5#cross-chapter-box-5.1_p1,|['China', 'United States', 'Germany', 'Spain', 'Australia', 'Switzerland', 'France']|
+ar6/test/wg1/chapter-5#5.2.2.2_p1,|['China', 'Australia']|
+ar6/test/wg1/chapter-5#cross-chapter-box-5.2_p1,|['China', 'United States', 'Australia', 'Japan', 'Netherlands', 'India']|
+ar6/test/wg1/chapter-5#5.3.2.1_p1,['China']
+ar6/test/wg1/chapter-5#5.3.2.1_p2,['China']
+ar6/test/wg1/chapter-5#5.3.5.2_p7,['China']
+ar6/test/wg1/chapter-5#5.6.3.1_p5,|['China', 'India']|
+ar6/test/wg2/chapter-18#18.2.1_p2,['China']
+ar6/test/wg2/chapter-18#18.3.1.4_p3,|['China', 'Germany', 'Japan']|
+ar6/test/wg2/chapter-18#18.3.1.5_p8,['China']
+ar6/test/wg2/chapter-18#18.4.1_p4,|['China', 'Brazil', 'Russia', 'India', 'South Africa']|
+ar6/test/wg2/chapter-18#18.4.3.2_p1,['China']
+ar6/test/wg2/chapter-18#18.4.3.3_p1,|['China', 'Japan', 'Myanmar']|
+ar6/test/wg2/chapter-18#18.4.3.3_p4,|['China', 'Thailand', 'Ukraine', 'Malaysia']|
+ar6/test/wg2/chapter-7#7.2.2.1 _p5,|['China', 'Nepal']|
+ar6/test/wg2/chapter-7#7.2.2.2_p3,|['China', 'Canada', 'Senegal', 'South Africa', 'Philippines', 'Ethiopia', 'Bangladesh', 'Mozambique', 'Cambodia']|
+ar6/test/wg2/chapter-7#7.2.2.3_p3,|['China', 'Australia', 'South Korea']|
+ar6/test/wg2/chapter-7#7.2.2.4_p3,|['China', 'Australia']|
+ar6/test/wg2/chapter-7#7.2.4.1_p9,['China']
+ar6/test/wg2/chapter-7#7.2.4.1_p10,|['China', 'Germany', 'Spain', 'Switzerland', 'Thailand', 'Japan', 'Netherlands', 'Philippines', 'Italy', 'Sweden', 'South Korea', 'Iran', 'Portugal', 'Czech Republic', 'Egypt', 'Romania', 'Greece']|
+ar6/test/wg2/chapter-7#7.2.5.2_p2,['China']
+ar6/test/wg2/chapter-7#7.3.1.2_p2,|['China', 'India']|
+ar6/test/wg2/chapter-7#7.3.1.2_p6,|['China', 'India']|
+ar6/test/wg2/chapter-7#7.3.1.3_p2,|['China', 'India', 'Kenya', 'Nigeria']|
+ar6/test/wg2/chapter-7#7.3.1.3_p3,|['China', 'India', 'Madagascar']|
+ar6/test/wg2/chapter-7#7.3.1.3_p6,|['China', 'Mexico', 'Tanzania', 'Nepal']|
+ar6/test/wg2/chapter-7#7.3.1.3_p10,|['China', 'Sudan', 'Kenya', 'South Sudan']|
+ar6/test/wg2/chapter-7#7.3.1.7_p1,|['China', 'Germany', 'Brazil']|
+ar6/test/wg2/chapter-7#7.4.2.7_p1,['China']
+ar6/test/wg2/chapter-7#7.4.4.2_p1,['China']
+ar6/test/wg2/chapter-9#9.9.1_p5,['China']
+ar6/test/wg2/chapter-8#8.4.2_p2,|['China', 'Vietnam', 'Nigeria']|
+ar6/test/wg2/chapter-10#10.3.1_p2,['China']
+ar6/test/wg2/chapter-10#10.3.1.1_p1,['China']
+ar6/test/wg2/chapter-10#10.3.1.1_p5,|['China', 'Philippines']|
+ar6/test/wg2/chapter-10#10.3.1.1_p6,['China']
+ar6/test/wg2/chapter-10#10.3.1.2_p6,|['China', 'Japan']|
+ar6/test/wg2/chapter-10#10.4.1.1_p1,|['China', 'India']|
+ar6/test/wg2/chapter-10#10.4.1.1_p2,|['China', 'India']|
+ar6/test/wg2/chapter-10#10.4.1.1_p3,|['China', 'Japan', 'Russia', 'India']|
+ar6/test/wg2/chapter-10#10.4.1.1_p4,|['China', 'Japan', 'India']|
+ar6/test/wg2/chapter-10#10.4.1.2_p2,|['China', 'Japan', 'India', 'Bangladesh', 'Nepal', 'Sri Lanka']|
+ar6/test/wg2/chapter-10#10.4.1.3_p3,|['China', 'India']|
+ar6/test/wg2/chapter-10#10.4.1.3_p4,|['China', 'India']|
+ar6/test/wg2/chapter-10#box-10.2_p3,|['China', 'Russia', 'India', 'Philippines', 'Iran', 'Bangladesh', 'Tajikistan']|
+ar6/test/wg2/chapter-10#10.4.2.1.2_p3,|['China', 'Sri Lanka']|
+ar6/test/wg2/chapter-10#10.4.2.1.2_p4,|['China', 'Japan']|
+ar6/test/wg2/chapter-10#10.4.2.1.2_p6,|['China', 'Russia', 'Tajikistan']|
+ar6/test/wg2/chapter-10#10.4.2.1.4_p1,['China']
+ar6/test/wg2/chapter-10#10.4.2.2.1_p1,|['China', 'India', 'Nepal']|
+ar6/test/wg2/chapter-10#10.4.2.2.2_p1,|['China', 'Japan']|
+ar6/test/wg2/chapter-10#10.4.2.2.2_p2,|['China', 'Japan', 'Russia', 'Iran', 'Afghanistan', 'Tajikistan', 'Kazakhstan', 'Uzbekistan']|
+ar6/test/wg2/chapter-10#10.4.2.2.2_p3,|['China', 'Thailand', 'India', 'Iran', 'Bangladesh', 'Nepal']|
+ar6/test/wg2/chapter-10#10.4.2.2.2_p7,|['China', 'Japan', 'India', 'Nepal']|
+ar6/test/wg2/chapter-10#10.4.2.2.2_p8,|['China', 'Russia', 'Iran', 'Bangladesh']|
+ar6/test/wg2/chapter-10#10.4.2.2.3_p1,|['China', 'Russia', 'India']|
+ar6/test/wg2/chapter-10#10.4.3_p1,['China']
+ar6/test/wg2/chapter-10#10.4.3_p8,['China']
+ar6/test/wg2/chapter-10#10.4.3_p10,|['China', 'Bangladesh', 'Vietnam']|
+ar6/test/wg2/chapter-10#10.4.3.1_p1,|['China', 'Indonesia']|
+ar6/test/wg2/chapter-10#10.4.3.2_p2,|['China', 'India']|
+ar6/test/wg2/chapter-10#10.4.3.2_p4,['China']
+ar6/test/wg2/chapter-10#10.4.4.2_p1,|['China', 'India', 'Pakistan']|
+ar6/test/wg2/chapter-10#10.4.4.3_p6,['China']
+ar6/test/wg2/chapter-10#10.4.4.3_p7,['China']
+ar6/test/wg2/chapter-10#10.4.4.3_p8,|['China', 'Vietnam']|
+ar6/test/wg2/chapter-10#10.4.4.4_p9,['China']
+ar6/test/wg2/chapter-10#10.4.4.5_p2,['China']
+ar6/test/wg2/chapter-10#10.4.4.5_p3,|['China', 'India', 'Bangladesh', 'Pakistan']|
+ar6/test/wg2/chapter-10#10.4.4.5_p10,['China']
+ar6/test/wg2/chapter-10#10.4.5.1_p2,|['China', 'Thailand']|
+ar6/test/wg2/chapter-10#10.4.5.2.1_p1,|['China', 'Japan', 'India', 'Indonesia', 'Vietnam', 'Sri Lanka']|
+ar6/test/wg2/chapter-10#10.4.5.2.2_p3,|['China', 'Thailand', 'Japan', 'India', 'Indonesia', 'Philippines', 'Myanmar', 'Bangladesh', 'Vietnam']|
+ar6/test/wg2/chapter-10#10.4.5.2.4_p3,['China']
+ar6/test/wg2/chapter-10#10.4.5.4_p2,|['China', 'Thailand', 'Indonesia', 'Philippines', 'Vietnam']|
+ar6/test/wg2/chapter-10#10.4.6.1_p1,|['China', 'India', 'Nigeria']|
+ar6/test/wg2/chapter-10#10.4.6.1_p3,|['China', 'Thailand', 'Indonesia', 'Philippines', 'Vietnam', 'Guinea', 'Papua New Guinea']|
+ar6/test/wg2/chapter-10#10.4.6.3.1_p1,|['China', 'Japan', 'Russia', 'India', 'Philippines']|
+ar6/test/wg2/chapter-10#10.4.6.3.2_p1,['China']
+ar6/test/wg2/chapter-10#10.4.6.3.2_p3,['China']
+ar6/test/wg2/chapter-10#10.4.6.3.2_p4,['China']
+ar6/test/wg2/chapter-10#10.4.6.3.3_p1,['China']
+ar6/test/wg2/chapter-10#10.4.6.3.3_p2,|['China', 'India', 'Philippines', 'Bangladesh', 'Pakistan', 'Turkey']|
+ar6/test/wg2/chapter-10#10.4.6.3.4_p1,|['China', 'Thailand', 'Japan', 'India', 'Indonesia', 'Philippines', 'Bangladesh', 'Vietnam', 'Malaysia']|
+ar6/test/wg2/chapter-10#10.4.6.3.4_p3,|['China', 'India']|
+ar6/test/wg2/chapter-10#10.4.6.3.4_p4,|['China', 'Japan', 'Russia', 'India', 'Indonesia']|
+ar6/test/wg2/chapter-10#10.4.6.3.5_p1,|['China', 'India', 'Indonesia', 'Bangladesh', 'Vietnam']|
+ar6/test/wg2/chapter-10#10.4.6.3.5_p2,|['China', 'Japan', 'India', 'Philippines']|
+ar6/test/wg2/chapter-10#10.4.6.3.6_p2,|['China', 'Thailand', 'Japan', 'India', 'Bangladesh']|
+ar6/test/wg2/chapter-10#10.4.6.3.7_p1,|['China', 'Russia']|
+ar6/test/wg2/chapter-10#10.4.6.3.8_p4,|['China', 'Russia', 'India']|
+ar6/test/wg2/chapter-10#10.4.6.3.8_p8,|['China', 'Thailand', 'India']|
+ar6/test/wg2/chapter-10#10.4.6.4.3_p2,['China']
+ar6/test/wg2/chapter-10#10.4.6.4.3_p3,['China']
+ar6/test/wg2/chapter-10#10.4.6.4.3_p4,['China']
+ar6/test/wg2/chapter-10#10.4.7.1_p6,|['China', 'Japan', 'India', 'Vietnam']|
+ar6/test/wg2/chapter-10#10.4.7.1_p7,|['China', 'Japan']|
+ar6/test/wg2/chapter-10#10.4.7.2_p1,['China']
+ar6/test/wg2/chapter-10#10.4.7.2_p3,|['China', 'India']|
+ar6/test/wg2/chapter-10#10.4.7.2_p4,|['China', 'Thailand', 'India', 'Indonesia', 'Myanmar', 'Malaysia', 'Cambodia']|
+ar6/test/wg2/chapter-10#10.4.7.2_p5,|['China', 'Bangladesh']|
+ar6/test/wg2/chapter-10#10.4.7.3_p1,['China']
+ar6/test/wg2/chapter-10#10.4.7.3_p2,['China']
+ar6/test/wg2/chapter-10#10.4.7.3_p3,|['China', 'India']|
+ar6/test/wg2/chapter-10#10.5.1.2_p6,|['China', 'Japan', 'Indonesia']|
+ar6/test/wg2/chapter-10#10.5.1.3_p1,|['China', 'Brazil', 'Russia', 'India', 'South Africa']|
+ar6/test/wg2/chapter-10#10.5.1.3_p3,['China']
+ar6/test/wg2/chapter-10#10.5.1.3_p4,|['China', 'India', 'Bangladesh', 'Nepal']|
+ar6/test/wg2/chapter-10#10.5.3.2_p9,['China']
+ar6/test/wg2/chapter-10#10.5.3.3_p1,|['China', 'India']|
+ar6/test/wg2/chapter-10#10.5.5.2_p2,|['China', 'India', 'Philippines']|
+ar6/test/wg2/chapter-10#10.5.5.2_p4,['China']
+ar6/test/wg2/chapter-10#10.5.5.2_p5,|['China', 'Thailand', 'India', 'Indonesia', 'Philippines', 'Myanmar', 'Bangladesh']|
+ar6/test/wg2/chapter-10#10.5.6.2_p3,|['China', 'Philippines']|
+ar6/test/wg2/chapter-10#10.5.7.2_p2,|['China', 'Thailand', 'India']|
+ar6/test/wg2/chapter-10#10.6.1_p3,|['China', 'Japan', 'India', 'Indonesia']|
+ar6/test/wg2/chapter-10#FAQ 10.1_p2,['China']
+ar6/test/wg2/chapter-10#FAQ 10.1_p6,|['China', 'India', 'Indonesia', 'Bangladesh', 'Vietnam']|
+ar6/test/wg2/chapter-10#FAQ 10.2_p6,|['China', 'Japan', 'India']|
+ar6/test/wg2/chapter-6#6.1.4_p3,|['China', 'India', 'Nigeria']|
+ar6/test/wg2/chapter-6#6.1.4_p6,['China']
+ar6/test/wg2/chapter-6#box-6.1_p7,|['China', 'Chile', 'India', 'Indonesia', 'Philippines']|
+ar6/test/wg2/chapter-6#6.2.2.1_p7,|['China', 'Australia']|
+ar6/test/wg2/chapter-6#6.2.2.2_p4,|['China', 'Indonesia', 'Vietnam']|
+ar6/test/wg2/chapter-6#6.2.2.3_p4,|['China', 'India', 'Pakistan']|
+ar6/test/wg2/chapter-6#6.2.3.3_p7,|['China', 'Vietnam', 'Malawi']|
+ar6/test/wg2/chapter-6#6.2.4.1_p1,['China']
+ar6/test/wg2/chapter-6#6.2.4.1_p5,['China']
+ar6/test/wg2/chapter-6#6.2.4.6_p3,['China']
+ar6/test/wg2/chapter-6#6.3.3.2_p7,['China']
+ar6/test/wg2/chapter-6#6.3.4.2_p2,['China']
+ar6/test/wg2/chapter-6#6.3.5.7_p6,|['China', 'Netherlands']|
+ar6/test/wg2/chapter-6#6.4.3.1_p1,['China']
+ar6/test/wg2/chapter-6#6.4.3.3_p1,['China']
+ar6/test/wg2/chapter-6#box-6.8_p6,['China']
+ar6/test/wg2/chapter-1#1.4.2.2_p3,|['China', 'United States', 'Brazil', 'India']|
+ar6/test/wg2/chapter-4#box-4.1_p4,|['China', 'India']|
+ar6/test/wg2/chapter-4#box-4.1_p10,['China']
+ar6/test/wg2/chapter-4#box-4.1_p15,['China']
+ar6/test/wg2/chapter-4#4.2.1.2_p6,|['China', 'Australia', 'Brazil', 'India']|
+ar6/test/wg2/chapter-4#4.2.3_p5,['China']
+ar6/test/wg2/chapter-4#4.2.4_p2,|['China', 'Australia', 'Brazil']|
+ar6/test/wg2/chapter-4#4.2.6_p4,|['China', 'Australia', 'Brazil', 'India', 'Tanzania']|
+ar6/test/wg2/chapter-4#4.2.8_p3,|['China', 'Australia', 'Greece']|
+ar6/test/wg2/chapter-4#4.2.8_p4,|['China', 'Germany']|
+ar6/test/wg2/chapter-4#4.3.3_p2,|['China', 'Senegal', 'Mozambique', 'Ecuador']|
+ar6/test/wg2/chapter-4#4.3.4_p3,|['China', 'Burkina Faso']|
+ar6/test/wg2/chapter-4#4.3.8_p7,|['China', 'Peru', 'India', 'Bolivia', 'Nepal']|
+ar6/test/wg2/chapter-4#4.4.3_p5,|['China', 'Canada', 'Mexico']|
+ar6/test/wg2/chapter-4#4.4.5_p3,|['China', 'Australia']|
+ar6/test/wg2/chapter-4#4.4.6_p3,|['China', 'Tunisia']|
+ar6/test/wg2/chapter-4#4.4.6_p4,|['China', 'Spain', 'Chile', 'Brazil']|
+ar6/test/wg2/chapter-4#4.4.6_p5,|['China', 'Australia', 'India']|
+ar6/test/wg2/chapter-4#4.4.7_p3,|['China', 'Bangladesh']|
+ar6/test/wg2/chapter-4#4.5.2_p7,|['China', 'India']|
+ar6/test/wg2/chapter-4#4.5.3_p3,|['China', 'Canada', 'Bangladesh']|
+ar6/test/wg2/chapter-4#4.6.3_p2,['China']
+ar6/test/wg2/chapter-4#box-4.3_p2,|['China', 'India']|
+ar6/test/wg2/chapter-4#4.7.6_p9,['China']
+ar6/test/wg2/chapter-4#FAQ 4.1_p2,|['China', 'India']|
+ar6/test/wg2/chapter-4#FAQ 4.3_p4,|['China', 'Canada', 'Australia', 'India']|
+ar6/test/wg2/chapter-4#FAQ 4.4_p4,|['China', 'India']|
+ar6/test/wg2/chapter-3#3.4.2.8_p4,|['China', 'Mexico']|
+ar6/test/wg2/chapter-3#3.4.2.8_p10,['China']
+ar6/test/wg2/chapter-3#3.5.5.3_p1,|['China', 'India']|
+ar6/test/wg2/chapter-3#3.5.5.3_p6,['China']
+ar6/test/wg2/chapter-2#2.4.2.4_p2,['China']
+ar6/test/wg2/chapter-2#2.4.3.2.1_p3,|['China', 'Canada', 'Switzerland', 'Russia', 'Nepal']|
+ar6/test/wg2/chapter-2#2.4.3.5_p4,['China']
+ar6/test/wg2/chapter-2#2.5.1.3.2_p5,|['China', 'Australia']|
+ar6/test/wg2/chapter-2#2.5.2.6_p6,['China']
+ar6/test/wg2/chapter-2#2.5.3.1.2_p2,|['China', 'Canada', 'Chile', 'Peru', 'Indonesia', 'Mexico', 'Bolivia']|
+ar6/test/wg2/chapter-5#box-5.2:-case-study:-wine_p1,|['China', 'Germany', 'Spain', 'Australia', 'Chile', 'Argentina', 'France', 'South Africa', 'Italy']|
+ar6/test/wg2/chapter-5#5.5.1.2_p1,['China']
+ar6/test/wg2/chapter-5#5.5.2.1_p1,['China']
+ar6/test/wg2/chapter-5#5.5.2.4_p1,|['China', 'Australia']|
+ar6/test/wg2/chapter-5#5.7.2_p2,|['China', 'Spain', 'India', 'Indonesia', 'Iran', 'Sri Lanka']|
+ar6/test/wg2/chapter-5#5.8_p2,|['China', 'Chile', 'Japan', 'Peru', 'India', 'Indonesia']|
+ar6/test/wg2/chapter-5#5.8.3_p3,|['China', 'India']|
+ar6/test/wg2/chapter-5#5.9_p1,|['China', 'Chile', 'India', 'Indonesia', 'Bangladesh', 'Vietnam', 'Egypt']|
+ar6/test/wg2/chapter-5#5.9.2_p4,|['China', 'Spain', 'Chile', 'Thailand', 'Japan', 'Netherlands', 'France', 'Peru', 'Italy', 'South Korea', 'North Korea']|
+ar6/test/wg2/chapter-5#5.13.7_p2,|['China', 'India']|
+ar6/test/wg2/chapter-5#5.14.2.2_p1,['China']
+ar6/test/wg2/chapter-5#5.14.3_p3,|['China', 'India']|
+ar6/test/wg3/chapter-7#7.2.2.2_p4,|['China', 'Brazil', 'Russia', 'Indonesia']|
+ar6/test/wg3/chapter-7#7.3.1_p1,|['China', 'Canada', 'Brazil']|
+ar6/test/wg3/chapter-7#7.4.4_p8,|['China', 'Canada']|
+ar6/test/wg3/chapter-7#7.6.2.1_p11,|['China', 'Brazil']|
+ar6/test/wg3/chapter-7#7.6.2.2_p5,|['China', 'Canada', 'Australia', 'Brazil', 'Japan', 'Russia', 'India', 'South Africa']|
+ar6/test/wg3/chapter-7#7.6.4.1_p2,['China']
+ar6/test/wg3/chapter-16#16.4.2_p1,|['China', 'Canada', 'India', 'South Africa']|
+ar6/test/wg3/chapter-16#16.4.4.4_p7,|['China', 'India', 'South Africa', 'Mexico']|
+ar6/test/wg3/chapter-16#16.4.4.4_p8,|['China', 'Brazil', 'South Africa']|
+ar6/test/wg3/chapter-16#16.4.4.5_p2,|['China', 'Japan']|
+ar6/test/wg3/chapter-16#16.4.4.6_p1,['China']
+ar6/test/wg3/chapter-16#16.4.4.6_p2,|['China', 'India']|
+ar6/test/wg3/chapter-16#16.4.5_p2,['China']
+ar6/test/wg3/chapter-16#16.4.7_p1,|['China', 'Italy']|
+ar6/test/wg3/chapter-16#16.4.7_p2,|['China', 'Brazil']|
+ar6/test/wg3/chapter-16#16.5.1_p2,|['China', 'Japan']|
+ar6/test/wg3/chapter-9#9.6.2_p1,['China']
+ar6/test/wg3/chapter-9#9.6.4_p12,|['China', 'Argentina', 'India', 'Mexico']|
+ar6/test/wg3/chapter-9#9.8.2.3_p1,|['China', 'Germany', 'Brazil', 'India', 'Mexico', 'Turkey']|
+ar6/test/wg3/chapter-9#9.9.3_p1,['China']
+ar6/test/wg3/chapter-9#1.	Regulatory instruments _p1,['China']
+ar6/test/wg3/chapter-9#1.	Regulatory instruments _p5,|['China', 'Canada']|
+ar6/test/wg3/chapter-9#1.	Regulatory instruments _p6,['China']
+ar6/test/wg3/chapter-9#1.	Regulatory instruments _p11,|['China', 'Canada', 'Australia', 'Brazil', 'Japan', 'Russia', 'India', 'Kenya', 'South Africa', 'Malaysia', 'Ghana', 'Tunisia']|
+ar6/test/wg3/chapter-9#1.	Regulatory instruments _p12,|['China', 'India', 'Kenya', 'South Africa', 'Ghana']|
+ar6/test/wg3/chapter-9#9.9.5_p5,|['China', 'Australia', 'South Korea']|
+ar6/test/wg3/chapter-9#9.9.5_p6,|['China', 'Italy']|
+ar6/test/wg3/chapter-9#9.9.6_p1,['China']
+ar6/test/wg3/chapter-9#9.10_p2,['China']
+ar6/test/wg3/chapter-11#11.2.1_p13,|['China', 'Turkey']|
+ar6/test/wg3/chapter-11#11.2.1_p16,['China']
+ar6/test/wg3/chapter-11#11.2.1_p17,|['China', 'India']|
+ar6/test/wg3/chapter-11#11.2.3_p3,|['China', 'India']|
+ar6/test/wg3/chapter-11#11.2.3_p5,|['China', 'Russia']|
+ar6/test/wg3/chapter-11#11.3.1_p4,|['China', 'Germany', 'Japan']|
+ar6/test/wg3/chapter-11#11.3.2_p5,|['China', 'Switzerland']|
+ar6/test/wg3/chapter-11#11.3.3_p6,|['China', 'Japan', 'South Korea']|
+ar6/test/wg3/chapter-11#11.3.4.1_p3,['China']
+ar6/test/wg3/chapter-11#11.4.2.2_p1,['China']
+ar6/test/wg3/chapter-11#11.4.2.2_p14,['China']
+ar6/test/wg3/chapter-11#11.4.2.2_p16,['China']
+ar6/test/wg3/chapter-11#11.5.1_p4,['China']
+ar6/test/wg3/chapter-11#11.5.1_p5,['China']
+ar6/test/wg3/chapter-11#11.5.2_p3,|['China', 'Brazil', 'Japan']|
+ar6/test/wg3/chapter-11#11.6.3.2_p3,['China']
+ar6/test/wg3/chapter-11#11.6.4.6_p2,['China']
+ar6/test/wg3/chapter-8#8.1.5_p5,|['China', 'Malaysia']|
+ar6/test/wg3/chapter-8#8.3.1_p10,|['China', 'United States', 'Australia', 'Japan', 'India']|
+ar6/test/wg3/chapter-8#8.3.4.1_p7,|['China', 'United States', 'India']|
+ar6/test/wg3/chapter-8#8.3.4.1_p9,['China']
+ar6/test/wg3/chapter-8#8.4.4.1_p3,|['China', 'United States', 'Germany', 'Spain', 'Philippines', 'South Korea']|
+ar6/test/wg3/chapter-8#8.4.4.2_p4,|['China', 'Portugal']|
+ar6/test/wg3/chapter-8#8.7.1_p5,|['China', 'United States']|
+ar6/test/wg3/chapter-10#10.2_p2,['China']
+ar6/test/wg3/chapter-10#10.2.2_p2,['China']
+ar6/test/wg3/chapter-10#10.3.1_p4,['China']
+ar6/test/wg3/chapter-10#10.3.4_p7,['China']
+ar6/test/wg3/chapter-10#10.3.4_p11,|['China', 'Japan']|
+ar6/test/wg3/chapter-10#10.4.2_p1,|['China', 'Japan']|
+ar6/test/wg3/chapter-10#10.5.3_p17,['China']
+ar6/test/wg3/chapter-10#10.5.3_p19,|['China', 'France']|
+ar6/test/wg3/chapter-10#10.7.2_p7,|['China', 'Germany', 'Canada', 'Brazil', 'Japan', 'France', 'India', 'Indonesia', 'South Africa', 'Mexico', 'Italy']|
+ar6/test/wg3/chapter-10#10.7.3_p2,|['China', 'India']|
+ar6/test/wg3/chapter-10#10.7.3_p4,|['China', 'India']|
+ar6/test/wg3/chapter-10#10.7.4_p5,['China']
+ar6/test/wg3/chapter-10#10.8.3_p6,|['China', 'India']|
+ar6/test/wg3/chapter-10#box-10.6_p8,['China']
+ar6/test/wg3/chapter-17#17.2.2_p4,['China']
+ar6/test/wg3/chapter-17#17.2.2_p10,['China']
+ar6/test/wg3/chapter-17#17.3.2.1_p9,|['China', 'Japan', 'India', 'South Korea', 'Nepal']|
+ar6/test/wg3/chapter-17#17.3.2.1_p17,|['China', 'India']|
+ar6/test/wg3/chapter-17#17.3.2.2_p6,|['China', 'India']|
+ar6/test/wg3/chapter-17#17.3.2.3_p23,['China']
+ar6/test/wg3/chapter-17#17.3.2.3_p30,|['China', 'India']|
+ar6/test/wg3/chapter-17#17.3.3.3_p1,|['China', 'South Africa', 'Ethiopia', 'Ghana']|
+ar6/test/wg3/chapter-17#17.3.3.3_p7,|['China', 'Japan', 'South Korea']|
+ar6/test/wg3/chapter-17#17.3.3.3_p8,['China']
+ar6/test/wg3/chapter-17#17.3.3.4_p6,|['China', 'Japan', 'Indonesia', 'Ecuador']|
+ar6/test/wg3/chapter-6#6.3_p21,|['China', 'India', 'Mexico']|
+ar6/test/wg3/chapter-6#box-6.1_p7,['China']
+ar6/test/wg3/chapter-6#box-6.2_p6,|['China', 'Japan', 'India', 'Indonesia', 'Philippines', 'Vietnam']|
+ar6/test/wg3/chapter-6#box-6.2_p9,['China']
+ar6/test/wg3/chapter-6#6.4.2.1_p4,|['China', 'India']|
+ar6/test/wg3/chapter-6#6.4.2.1_p16,|['China', 'Australia', 'Chile', 'Peru']|
+ar6/test/wg3/chapter-6#6.4.2.2_p6,['China']
+ar6/test/wg3/chapter-6#6.4.2.2_p8,|['China', 'India']|
+ar6/test/wg3/chapter-6#6.4.2.5_p5,|['China', 'India']|
+ar6/test/wg3/chapter-6#6.4.2.7_p5,|['China', 'India']|
+ar6/test/wg3/chapter-6#6.4.5.2_p3,|['China', 'Australia']|
+ar6/test/wg3/chapter-6#6.5.2.1_p5,|['China', 'Australia']|
+ar6/test/wg3/chapter-6#6.5.2.2_p3,['China']
+ar6/test/wg3/chapter-6#6.5.2.3_p2,|['China', 'Australia', 'South Africa']|
+ar6/test/wg3/chapter-6#6.5.3_p2,['China']
+ar6/test/wg3/chapter-6#6.7.3.2_p8,|['China', 'India']|
+ar6/test/wg3/chapter-4#4.2.2.5_p7,|['China', 'Brazil', 'Japan']|
+ar6/test/wg3/chapter-4#4.2.4.2_p1,|['China', 'Germany', 'Japan', 'France', 'South Korea']|
+ar6/test/wg3/chapter-4#4.2.4.3_p2,|['China', 'India', 'South Africa']|
+ar6/test/wg3/chapter-4#4.2.4.3_p6,|['China', 'Germany', 'Japan']|
+ar6/test/wg3/chapter-4#4.2.5.1_p4,|['China', 'Canada', 'Japan', 'India']|
+ar6/test/wg3/chapter-4#4.2.5.1_p6,|['China', 'Canada']|
+ar6/test/wg3/chapter-4#box-4.3_p7,|['China', 'Japan', 'India']|
+ar6/test/wg3/chapter-4#4.2.5.4_p2,['China']
+ar6/test/wg3/chapter-4#4.2.5.5_p2,|['China', 'Canada', 'Brazil', 'Japan', 'France', 'India', 'South Korea']|
+ar6/test/wg3/chapter-4#4.2.5.7_p2,|['China', 'Canada', 'Japan', 'South Africa']|
+ar6/test/wg3/chapter-4#4.2.5.7_p3,|['China', 'Germany', 'Spain', 'Japan', 'Mexico']|
+ar6/test/wg3/chapter-4#4.2.5.8_p3,|['China', 'India']|
+ar6/test/wg3/chapter-4#4.2.5.10_p2,|['China', 'India']|
+ar6/test/wg3/chapter-4#4.2.5.13_p2,['China']
+ar6/test/wg3/chapter-4#4.2.6.2_p2,|['China', 'Australia', 'Thailand', 'Brazil', 'Japan', 'India', 'South Africa', 'Mexico', 'Portugal', 'Colombia', 'Vietnam', 'Turkey']|
+ar6/test/wg3/chapter-4#4.2.6.3_p2,|['China', 'Netherlands', 'France', 'South Africa', 'Ethiopia', 'Turkey']|
+ar6/test/wg3/chapter-4#4.3.2.2_p5,|['China', 'India']|
+ar6/test/wg3/chapter-4#4.3.2.3_p3,|['China', 'Canada', 'India', 'Philippines']|
+ar6/test/wg3/chapter-4#4.3.2.3_p4,|['China', 'Brazil']|
+ar6/test/wg3/chapter-4#cross-chapter-box-5_p26,|['China', 'Brazil', 'Indonesia', 'Sweden']|
+ar6/test/wg3/chapter-4#4.4.1.7_p1,['China']
+ar6/test/wg3/chapter-4#4.4.1.7_p2,['China']
+ar6/test/wg3/chapter-3#3.3.1_p2,['China']
+ar6/test/wg3/chapter-3#3.5.2.2_p2,|['China', 'India']|
+ar6/test/wg3/chapter-3#3.6.1.2_p3,|['China', 'India']|
+ar6/test/wg3/chapter-3#3.7.4.1_p2,|['China', 'Canada']|
+ar6/test/wg3/chapter-3#3.7.5.2_p4,|['China', 'Germany', 'Brazil', 'India', 'Indonesia', 'South Africa', 'Nigeria']|
+ar6/test/wg3/chapter-12#12.6.3.1_p4,|['China', 'United States', 'Germany', 'Japan', 'Russia']|
+ar6/test/wg3/chapter-12#12.6.3.1_p6,['China']
+ar6/test/wg3/chapter-12#12.6.3.1_p8,['China']
+ar6/test/wg3/chapter-14#14.3.1.2_p2,|['China', 'Canada', 'Brazil', 'Japan', 'Russia', 'India']|
+ar6/test/wg3/chapter-14#14.3.1.2_p3,|['China', 'Brazil', 'India', 'South Africa']|
+ar6/test/wg3/chapter-14#14.3.1.2_p4,['China']
+ar6/test/wg3/chapter-14#14.3.2.1_p10,|['China', 'Canada', 'Brazil', 'India', 'Indonesia']|
+ar6/test/wg3/chapter-14#14.4.4_p4,|['China', 'Switzerland', 'Thailand', 'Mexico', 'South Korea', 'Kazakhstan']|
+ar6/test/wg3/chapter-14#14.5.1.1_p6,|['China', 'United States', 'Japan', 'Russia', 'India']|
+ar6/test/wg3/chapter-14#14.5.1.4_p4,|['China', 'Cambodia']|
+ar6/test/wg3/chapter-14#14.5.1.4_p5,|['China', 'India']|
+ar6/test/wg3/chapter-14#14.5.1.4_p6,|['China', 'Brazil', 'India']|
+ar6/test/wg3/chapter-14#14.5.1.4_p7,|['China', 'India']|
+ar6/test/wg3/chapter-14#14.5.2.3_p7,|['China', 'Brazil', 'Russia', 'India']|
+ar6/test/wg3/chapter-13#13.2.3.1_p2,|['China', 'Australia']|
+ar6/test/wg3/chapter-13#13.2.3.2_p3,|['China', 'Kenya']|
+ar6/test/wg3/chapter-13#13.2.3.2_p6,|['China', 'United States', 'Germany', 'Canada', 'Australia', 'India']|
+ar6/test/wg3/chapter-13#13.2.3.2_p7,|['China', 'India']|
+ar6/test/wg3/chapter-13#13.2.3.2_p9,|['China', 'Germany']|
+ar6/test/wg3/chapter-13#13.2.4.1_p3,|['China', 'Chile', 'Mexico']|
+ar6/test/wg3/chapter-13#13.3.3_p7,['China']
+ar6/test/wg3/chapter-13#13.4.1_p4,|['China', 'Germany', 'Japan']|
+ar6/test/wg3/chapter-13#13.4.1_p5,|['China', 'Australia', 'India', 'Mexico']|
+ar6/test/wg3/chapter-13#13.5.1_p7,['China']
+ar6/test/wg3/chapter-13#13.6.3.2_p2,['China']
+ar6/test/wg3/chapter-13#13.6.3.2_p3,['China']
+ar6/test/wg3/chapter-13#13.6.3.5_p2,|['China', 'Germany', 'Switzerland', 'Austria']|
+ar6/test/wg3/chapter-13#13.6.3.5_p7,['China']
+ar6/test/wg3/chapter-13#13.6.5.3_p2,|['China', 'Malaysia']|
+ar6/test/wg3/chapter-2#2.2.3_p4,['China']
+ar6/test/wg3/chapter-2#2.3.3_p8,|['China', 'India']|
+ar6/test/wg3/chapter-2#2.3.4.2_p2,|['China', 'Germany', 'Russia']|
+ar6/test/wg3/chapter-2#2.4.1_p6,|['China', 'India']|
+ar6/test/wg3/chapter-2#2.4.2.1_p5,|['China', 'India', 'Indonesia', 'South Africa', 'Vietnam', 'Turkey']|
+ar6/test/wg3/chapter-2#2.4.2.3_p5,['China']
+ar6/test/wg3/chapter-2#2.4.2.5_p5,['China']
+ar6/test/wg3/chapter-2#2.5.2.1_p1,|['China', 'Canada', 'Brazil', 'Netherlands', 'France', 'Indonesia', 'Sweden']|
+ar6/test/wg3/chapter-2#2.6.1_p2,|['China', 'Brazil']|
+ar6/test/wg3/chapter-2#2.6.1_p4,|['China', 'Brazil', 'India', 'South Africa', 'Philippines', 'Turkey']|
+ar6/test/wg3/chapter-2#2.6.2_p3,['China']
+ar6/test/wg3/chapter-2#2.6.2_p5,|['China', 'Japan']|
+ar6/test/wg3/chapter-2#2.6.2_p6,|['China', 'Canada']|
+ar6/test/wg3/chapter-2#2.6.2_p13,|['China', 'Brazil', 'France', 'Indonesia', 'Mexico', 'Turkey']|
+ar6/test/wg3/chapter-2#2.6.2_p17,|['China', 'India', 'Indonesia', 'Vietnam']|
+ar6/test/wg3/chapter-2#2.8.3.1_p3,['China']
+ar6/test/wg3/chapter-2#2.8.3.2_p3,['China']
+ar6/test/wg3/chapter-2#2.8.4.1_p2,['China']
+ar6/test/wg3/chapter-5#5.2.2.1_p1,|['China', 'Brazil', 'India', 'South Africa']|
+ar6/test/wg3/chapter-5#5.2.2.2_p1,|['China', 'Germany']|
+ar6/test/wg3/chapter-5#5.2.2.2_p2,|['China', 'United States']|
+ar6/test/wg3/chapter-5#5.3.1.1_p6,['China']
+ar6/test/wg3/chapter-5#box-5.6_p1,|['China', 'India', 'Ethiopia', 'Ecuador']|
+ar6/test/wg3/chapter-5#box-5.9_p1,|['China', 'Japan', 'Mexico']|
+ar6/test/wg3/chapter-5#5.6.2.3_p2,|['China', 'India']|
+ar6/test/wg1/chapter-1#cross-chapter-box-1.2_p1,|['United States', 'Germany', 'United Kingdom', 'Australia', 'Chile']|
+ar6/test/wg1/chapter-1#cross-chapter-box-1.3_p1,|['United States', 'Germany', 'United Kingdom', 'Canada', 'Australia', 'Chile', 'Senegal', 'Argentina', 'Sudan', 'Netherlands']|
+ar6/test/wg1/chapter-1#cross-chapter-box-1.4_p1,|['United States', 'Germany', 'United Kingdom', 'Australia', 'Belgium', 'Switzerland', 'Netherlands', 'France', 'Austria']|
+ar6/test/wg1/chapter-3#3.3.2.1_p2,|['United States', 'Chile']|
+ar6/test/wg1/chapter-3#3.3.2.1_p6,|['United States', 'Australia']|
+ar6/test/wg1/chapter-2#cross-chapter-box-2.1_p1,|['United States', 'Germany', 'United Kingdom', 'Switzerland']|
+ar6/test/wg1/chapter-2#2.3.1.3.1_p2,|['United States', 'Australia']|
+ar6/test/wg1/chapter-2#cross-chapter-box-2.3_p1,|['United States', 'Germany', 'United Kingdom', 'Canada', 'Australia', 'Belgium', 'Switzerland', 'Austria', 'Italy', 'Ukraine']|
+ar6/test/wg1/chapter-2#2.3.3.3_p3,|['United States', 'Spain', 'South Africa']|
+ar6/test/wg1/chapter-5#5.2.1.4.1_p6,|['United States', 'Australia']|
+ar6/test/wg1/chapter-5#cross-chapter-box-5.3_p1,|['United States', 'Germany', 'United Kingdom', 'Canada', 'Belgium', 'Japan', 'France', 'South Africa']|
+ar6/test/wg2/chapter-7#7.4.2.8_p2,|['United States', 'Kenya']|
+ar6/test/wg2/chapter-6#6.3.3.1_p4,['United States']
+ar6/test/wg2/chapter-12#FAQ 12.3_p6,|['United States', 'Canada', 'Brazil', 'Guatemala']|
+ar6/test/wg2/chapter-14#14.7.1.3_p5,['United States']
+ar6/test/wg3/chapter-7#cross-chapter-box-6_p1,|['United States', 'Germany', 'United Kingdom', 'Belgium', 'Japan', 'Netherlands', 'Austria', 'Italy', 'Czech Republic']|
+ar6/test/wg3/chapter-9#1.	Regulatory instruments _p10,['United States']
+ar6/test/wg3/chapter-11#11.6.4.1_p1,|['United States', 'Netherlands']|
+ar6/test/wg3/chapter-8#8.1.4_p8,|['United States', 'Germany', 'Japan', 'Ukraine', 'Poland']|
+ar6/test/wg3/chapter-8#cross-working-group-box-2:-cities-and-climate-change_p1,|['United States', 'Germany', 'United Kingdom', 'Spain', 'Australia', 'Belgium', 'Japan', 'India', 'Uganda', 'Iran', 'Hungary', 'Turkey']|
+ar6/test/wg3/chapter-8#8.3.1_p8,|['United States', 'Australia']|
+ar6/test/wg3/chapter-8#8.4.4.1_p4,['United States']
+ar6/test/wg3/chapter-8#box-8.2:-urban-carbon-storage:-an-example-from-new-york-city_p9,['United States']
+ar6/test/wg3/chapter-8#8.5.2_p1,['United States']
+ar6/test/wg3/chapter-8#8.5.2_p2,['United States']
+ar6/test/wg3/chapter-8#8.7.1_p4,['United States']
+ar6/test/wg3/chapter-10#10.2.2_p3,|['United States', 'Germany', 'United Kingdom', 'Australia', 'Sweden']|
+ar6/test/wg3/chapter-1#1.4.5_p3,|['United States', 'Germany', 'Canada', 'Australia', 'Brazil', 'South Africa']|
+ar6/test/wg3/chapter-1#1.4.9_p4,|['United States', 'Netherlands']|
+ar6/test/wg3/chapter-4#cross-chapter-box-5_p1,|['United States', 'Germany', 'United Kingdom', 'Switzerland', 'Thailand', 'Sudan', 'Netherlands', 'France', 'India', 'Indonesia', 'South Africa', 'Nigeria', 'Turkey', 'Venezuela', 'Greece', 'Saudi Arabia', 'Algeria', 'Mali']|
+ar6/test/wg3/chapter-3#cross-chapter-box-3_p1,|['United States', 'Germany', 'United Kingdom', 'Australia', 'Belgium', 'Switzerland', 'Brazil', 'Japan', 'Netherlands', 'France', 'Austria', 'India', 'South Africa', 'Italy', 'Malaysia', 'Syria', 'Algeria']|
+ar6/test/wg3/chapter-3#3.5.2.2_p3,|['United States', 'Russia']|
+ar6/test/wg3/chapter-3#cross-working-group-box-1_p1,|['United States', 'Germany', 'United Kingdom', 'Switzerland', 'Brazil', 'Japan', 'France', 'Austria', 'Italy', 'Syria']|
+ar6/test/wg3/chapter-12#12.5.4_p2,|['United States', 'India', 'Mexico']|
+ar6/test/wg3/chapter-14#14.2.2_p7,['United States']
+ar6/test/wg3/chapter-14#14.3.3.2_p5,['United States']
+ar6/test/wg3/chapter-14#14.3.3.2_p10,['United States']
+ar6/test/wg3/chapter-14#14.5.1.1_p4,['United States']
+ar6/test/wg3/chapter-14#14.5.1.2_p8,['United States']
+ar6/test/wg3/chapter-14#14.5.1.3_p2,|['United States', 'Australia']|
+ar6/test/wg3/chapter-14#14.5.4_p12,['United States']
+ar6/test/wg3/chapter-13#13.2.4.1_p2,['United States']
+ar6/test/wg3/chapter-13#13.4.1_p7,|['United States', 'Australia']|
+ar6/test/wg3/chapter-13#13.4.2_p3,|['United States', 'Australia']|
+ar6/test/wg3/chapter-13#13.4.2_p10,['United States']
+ar6/test/wg3/chapter-13#13.6.5.2_p4,|['United States', 'Germany']|
+ar6/test/wg3/chapter-13#13.6.5.4_p2,|['United States', 'Japan']|
+ar6/test/wg1/chapter-2#cross-chapter-box-2.2_p1,|['Germany', 'United Kingdom', 'Canada']|
+ar6/test/wg2/chapter-18#18.4.3.2_p2,|['Germany', 'Bangladesh', 'Bolivia']|
+ar6/test/wg2/chapter-7#7.2.2.1 _p6,|['Germany', 'Netherlands']|
+ar6/test/wg2/chapter-8#8.3.2.1_p15,|['Germany', 'Australia']|
+ar6/test/wg2/chapter-17#17.5.2.4_p1,['Germany']
+ar6/test/wg2/chapter-6#6.3.3.1_p5,|['Germany', 'Canada', 'Australia', 'Thailand', 'Philippines', 'Sri Lanka']|
+ar6/test/wg2/chapter-6#6.4.5.1_p2,|['Germany', 'Canada', 'Belgium', 'Greece']|
+ar6/test/wg2/chapter-6#6.4.5.1_p3,|['Germany', 'Netherlands', 'Nigeria']|
+ar6/test/wg2/chapter-4#4.4.8_p2,|['Germany', 'Spain', 'Canada', 'Australia', 'Belgium', 'Ethiopia', 'Vietnam', 'Burkina Faso', 'Czech Republic', 'Greece']|
+ar6/test/wg2/chapter-13#13.2.1.2.1_p3,|['Germany', 'Belgium', 'Netherlands']|
+ar6/test/wg2/chapter-13#13.2.2.1.1_p3,|['Germany', 'Netherlands']|
+ar6/test/wg2/chapter-13#13.6.1.1_p1,|['Germany', 'Switzerland', 'France']|
+ar6/test/wg2/chapter-13#13.6.1.2_p3,|['Germany', 'Russia', 'Greece']|
+ar6/test/wg2/chapter-13#13.7.1.3_p4,|['Germany', 'Spain', 'France', 'Italy']|
+ar6/test/wg2/chapter-13#13.11.1.1_p4,['Germany']
+ar6/test/wg2/chapter-13#13.11.2.2_p4,|['Germany', 'France']|
+ar6/test/wg2/chapter-2#2.4.4.3.3_p3,|['Germany', 'Spain', 'Switzerland', 'France', 'Austria', 'Sweden', 'Ukraine', 'Poland', 'Czech Republic']|
+ar6/test/wg2/chapter-2#2.5.3.1.2_p3,|['Germany', 'Canada', 'Brazil', 'Mexico', 'Madagascar', 'Egypt']|
+ar6/test/wg2/chapter-5#5.6.2_p5,|['Germany', 'India']|
+ar6/test/wg2/chapter-5#5.6.2_p10,['Germany']
+ar6/test/wg3/chapter-9#9.6.1_p6,['Germany']
+ar6/test/wg3/chapter-9#9.6.3_p6,|['Germany', 'Italy']|
+ar6/test/wg3/chapter-9#2.	Market-based instruments_p4,|['Germany', 'Australia', 'Switzerland', 'Brazil', 'South Korea', 'Turkey']|
+ar6/test/wg3/chapter-9#9.9.5_p4,['Germany']
+ar6/test/wg3/chapter-11#11.3.3_p7,|['Germany', 'Japan', 'South Korea']|
+ar6/test/wg3/chapter-10#10.3.1_p7,|['Germany', 'Brazil']|
+ar6/test/wg3/chapter-17#17.4.3_p1,|['Germany', 'Mali']|
+ar6/test/wg3/chapter-6#box-6.2_p4,|['Germany', 'Poland']|
+ar6/test/wg3/chapter-6#box-6.2_p17,|['Germany', 'Australia', 'Chile']|
+ar6/test/wg3/chapter-6#box-6.2_p23,|['Germany', 'France']|
+ar6/test/wg3/chapter-6#6.6.4_p8,|['Germany', 'Switzerland', 'Netherlands']|
+ar6/test/wg3/chapter-1#cross-chapter-box-1_p1,|['Germany', 'United Kingdom', 'Australia', 'Brazil', 'India', 'Hungary', 'Nigeria', 'Turkey']|
+ar6/test/wg3/chapter-1#1.7.4.2_p5,|['Germany', 'France']|
+ar6/test/wg3/chapter-4#cross-chapter-box-4_p1,|['Germany', 'Netherlands', 'France', 'Austria', 'South Africa']|
+ar6/test/wg3/chapter-4#4.2.4.3_p1,|['Germany', 'Canada', 'Japan', 'Netherlands', 'France']|
+ar6/test/wg3/chapter-4#box-4.3_p1,|['Germany', 'France']|
+ar6/test/wg3/chapter-4#4.2.5.3_p2,|['Germany', 'Netherlands', 'France']|
+ar6/test/wg3/chapter-4#4.2.5.8_p2,['Germany']
+ar6/test/wg3/chapter-4#4.2.5.9_p1,|['Germany', 'Japan', 'India']|
+ar6/test/wg3/chapter-4#4.4.1.2_p3,['Germany']
+ar6/test/wg3/chapter-4#4.4.1.8_p9,|['Germany', 'Belgium']|
+ar6/test/wg3/chapter-4#box-4.6_p10,['Germany']
+ar6/test/wg3/chapter-12#12.3.3_p1,|['Germany', 'Sweden']|
+ar6/test/wg3/chapter-14#14.5.2.1_p2,|['Germany', 'United Kingdom', 'Brazil', 'France', 'Indonesia']|
+ar6/test/wg3/chapter-14#14.5.2.1_p8,['Germany']
+ar6/test/wg3/chapter-13#13.2.1_p7,|['Germany', 'Mexico']|
+ar6/test/wg3/chapter-13#13.2.3.2_p5,['Germany']
+ar6/test/wg3/chapter-13#13.2.3.2_p8,['Germany']
+ar6/test/wg3/chapter-13#13.6.3.5_p6,['Germany']
+ar6/test/wg3/chapter-13#13.6.4.2_p1,['Germany']
+ar6/test/wg3/chapter-13#13.9.4_p2,|['Germany', 'United Kingdom', 'Spain', 'Canada', 'Japan', 'France', 'Sweden', 'South Korea', 'Hungary']|
+ar6/test/wg3/chapter-13#13.9.6_p3,['Germany']
+ar6/test/wg3/chapter-13#13.9.6_p10,|['Germany', 'Spain', 'Canada', 'France', 'Sweden']|
+ar6/test/wg3/chapter-2#cross-chapter-box-2_p1,|['Germany', 'United Kingdom', 'Australia', 'Brazil', 'Netherlands', 'France', 'Austria', 'Syria', 'Morocco']|
+ar6/test/wg3/chapter-2#2.3.4.1_p1,|['Germany', 'Spain', 'France', 'Italy']|
+ar6/test/wg3/chapter-2#2.5.2.1_p2,['Germany']
+ar6/test/wg3/chapter-2#2.6.2_p2,|['Germany', 'Sweden', 'Greece']|
+ar6/test/wg3/chapter-5#5.2.3_p9,['Germany']
+ar6/test/wg3/chapter-5#5.3.1.1_p9,['Germany']
+ar6/test/wg3/chapter-5#box-5.7_p1,|['Germany', 'Japan']|
+ar6/test/wg1/chapter-3#cross-chapter-box-3.1_p1,|['United Kingdom', 'Canada', 'Australia', 'Japan', 'France']|
+ar6/test/wg3/chapter-4#4.5_p11,|['United Kingdom', 'Spain', 'Philippines', 'Iran', 'Turkey']|
+ar6/test/wg3/chapter-14#14.5.3_p4,['United Kingdom']
+ar6/test/wg3/chapter-13#13.4.3_p3,|['United Kingdom', 'Canada', 'Australia']|
+ar6/test/wg1/chapter-1#1.4.5.2_p5,['Spain']
+ar6/test/wg2/chapter-7#7.2.4.1_p8,|['Spain', 'Canada', 'Japan']|
+ar6/test/wg2/chapter-7#7.2.5.1_p4,|['Spain', 'Chile', 'Brazil', 'Vietnam']|
+ar6/test/wg2/chapter-7#7.3.1.10_p1,['Spain']
+ar6/test/wg2/chapter-6#6.2.2.4_p3,['Spain']
+ar6/test/wg2/chapter-6#6.2.4.6_p5,['Spain']
+ar6/test/wg2/chapter-6#6.3.5.7_p4,|['Spain', 'Kenya', 'Ghana']|
+ar6/test/wg2/chapter-6#6.4.3.4_p4,['Spain']
+ar6/test/wg2/chapter-4#4.5.2_p1,|['Spain', 'Portugal', 'Greece']|
+ar6/test/wg2/chapter-4#4.5.4_p2,|['Spain', 'Portugal']|
+ar6/test/wg2/chapter-4#box-4.5_p3,['Spain']
+ar6/test/wg2/chapter-4#4.7.1.2_p6,|['Spain', 'Australia']|
+ar6/test/wg2/chapter-4#4.7.4_p5,['Spain']
+ar6/test/wg2/chapter-15#15.3.3.1.2_p3,|['Spain', 'Guinea', 'Greece', 'Papua New Guinea']|
+ar6/test/wg2/chapter-15#15.3.4.1_p1,|['Spain', 'Haiti']|
+ar6/test/wg2/chapter-15#15.5.2_p2,['Spain']
+ar6/test/wg2/chapter-13#13.6.1.1_p6,|['Spain', 'Russia']|
+ar6/test/wg2/chapter-13#13.6.1.2_p5,|['Spain', 'France']|
+ar6/test/wg2/chapter-13#13.11.1.4_p2,['Spain']
+ar6/test/wg2/chapter-2#2.4.3.2.2_p2,|['Spain', 'Canada', 'France', 'Peru', 'Italy']|
+ar6/test/wg2/chapter-2#2.4.3.4_p3,|['Spain', 'South Africa']|
+ar6/test/wg2/chapter-2#2.4.4.2.3_p5,|['Spain', 'Portugal']|
+ar6/test/wg2/chapter-2#2.5.3.1.2_p5,|['Spain', 'Canada', 'Mexico', 'Sri Lanka']|
+ar6/test/wg2/chapter-2#2.5.3.6.1_p3,|['Spain', 'Thailand', 'Brazil']|
+ar6/test/wg2/chapter-2#2.6.1_p2,['Spain']
+ar6/test/wg3/chapter-7#7.4.5.1_p4,|['Spain', 'Argentina', 'India', 'Portugal']|
+ar6/test/wg3/chapter-9#9.8.2.2_p4,['Spain']
+ar6/test/wg3/chapter-4#4.5_p9,|['Spain', 'Canada', 'Australia', 'South Korea']|
+ar6/test/wg3/chapter-13#13.5.1_p4,|['Spain', 'Ethiopia']|
+ar6/test/wg3/chapter-13#13.6.3.3_p7,|['Spain', 'Canada', 'South Africa']|
+ar6/test/wg3/chapter-5#box-5.5_p3,|['Spain', 'Netherlands', 'India', 'Nepal']|
+ar6/test/wg1/chapter-1#1.5.1.1.1_p5,|['Canada', 'Australia']|
+ar6/test/wg1/chapter-3#3.3.2.4_p2,['Canada']
+ar6/test/wg1/chapter-2#2.2.5.3_p3,|['Canada', 'Indonesia']|
+ar6/test/wg1/chapter-2#2.3.2.1.1_p8,['Canada']
+ar6/test/wg1/chapter-2#2.3.4.3.2_p5,['Canada']
+ar6/test/wg2/chapter-7#box-7.1_p1,|['Canada', 'Sweden']|
+ar6/test/wg2/chapter-7#box-7.1_p8,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-7#box-7.1_p9,|['Canada', 'Australia', 'Russia', 'Bangladesh']|
+ar6/test/wg2/chapter-7#box-7.1_p28,['Canada']
+ar6/test/wg2/chapter-7#7.2.2.1 _p7,|['Canada', 'Austria', 'Sweden', 'Czech Republic']|
+ar6/test/wg2/chapter-7#7.2.5.1_p3,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-7#7.2.6_p7,|['Canada', 'Bangladesh', 'Haiti']|
+ar6/test/wg2/chapter-7#7.3.1.3_p8,|['Canada', 'Russia']|
+ar6/test/wg2/chapter-7#7.3.1.3_p9,['Canada']
+ar6/test/wg2/chapter-7#7.3.1.5_p1,['Canada']
+ar6/test/wg2/chapter-8#8.3.2.1_p18,|['Canada', 'India', 'Philippines', 'Italy', 'Sweden', 'Afghanistan', 'Pakistan', 'Mozambique', 'Nigeria', 'Haiti', 'Somalia']|
+ar6/test/wg2/chapter-8#8.4.5.6_p8,|['Canada', 'India']|
+ar6/test/wg2/chapter-17#17.4.4.1_p13,|['Canada', 'Peru', 'Mexico', 'Iran']|
+ar6/test/wg2/chapter-6#6.1.2_p4,['Canada']
+ar6/test/wg2/chapter-6#6.2.2.4_p2,['Canada']
+ar6/test/wg2/chapter-6#6.2.3.2_p2,|['Canada', 'Australia', 'Thailand', 'Indonesia', 'South Africa']|
+ar6/test/wg2/chapter-6#6.2.4.1_p6,|['Canada', 'Japan', 'Russia']|
+ar6/test/wg2/chapter-6#6.2.4.2_p2,|['Canada', 'Zambia', 'Malawi', 'Mozambique']|
+ar6/test/wg2/chapter-6#6.3.4.7_p3,['Canada']
+ar6/test/wg2/chapter-6#6.4.3.4_p2,|['Canada', 'Malaysia', 'Czech Republic']|
+ar6/test/wg2/chapter-4#box-4.1_p11,|['Canada', 'Australia']|
+ar6/test/wg2/chapter-4#4.2.2_p5,['Canada']
+ar6/test/wg2/chapter-4#4.2.2_p6,['Canada']
+ar6/test/wg2/chapter-4#4.2.3_p2,|['Canada', 'Australia']|
+ar6/test/wg2/chapter-4#4.2.3_p4,['Canada']
+ar6/test/wg2/chapter-4#4.2.4_p8,|['Canada', 'Russia']|
+ar6/test/wg2/chapter-4#4.3.3_p3,|['Canada', 'Malawi']|
+ar6/test/wg2/chapter-4#4.3.8_p8,['Canada']
+ar6/test/wg2/chapter-4#4.4.2_p4,['Canada']
+ar6/test/wg2/chapter-4#4.4.4_p8,['Canada']
+ar6/test/wg2/chapter-4#4.6.1_p6,|['Canada', 'Bangladesh']|
+ar6/test/wg2/chapter-4#4.6.4_p3,|['Canada', 'Uganda']|
+ar6/test/wg2/chapter-3#FAQ 3.2_p6,|['Canada', 'Australia', 'Japan', 'Mexico']|
+ar6/test/wg2/chapter-3#3.5.4.1_p2,['Canada']
+ar6/test/wg2/chapter-12#12.5.8.4_p4,|['Canada', 'Guatemala']|
+ar6/test/wg2/chapter-14#14.1_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.1_p3,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.1.1_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.2.1_p2,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.2.1_p3,['Canada']
+ar6/test/wg2/chapter-14#14.2.1_p7,['Canada']
+ar6/test/wg2/chapter-14#14.2.2_p7,['Canada']
+ar6/test/wg2/chapter-14#14.3.1_p2,['Canada']
+ar6/test/wg2/chapter-14#14.3.2_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.3.3_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.4_p3,['Canada']
+ar6/test/wg2/chapter-14#box-14.1_p1,['Canada']
+ar6/test/wg2/chapter-14#box-14.1_p6,['Canada']
+ar6/test/wg2/chapter-14#14.5.1.1_p5,['Canada']
+ar6/test/wg2/chapter-14#14.5.2.1_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.2.1_p6,['Canada']
+ar6/test/wg2/chapter-14#14.5.2.2_p4,['Canada']
+ar6/test/wg2/chapter-14#box-14.2_p2,['Canada']
+ar6/test/wg2/chapter-14#box-14.2_p4,['Canada']
+ar6/test/wg2/chapter-14#box-14.2_p10,['Canada']
+ar6/test/wg2/chapter-14#box-14.2_p11,['Canada']
+ar6/test/wg2/chapter-14#box-14.2_p12,['Canada']
+ar6/test/wg2/chapter-14#box-14.2_p14,['Canada']
+ar6/test/wg2/chapter-14#box-14.2_p17,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.3.3_p9,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.4.1_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.5_p1,['Canada']
+ar6/test/wg2/chapter-14#14.5.5.1.2_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.5.2.1_p2,['Canada']
+ar6/test/wg2/chapter-14#14.5.5.2.2_p1,['Canada']
+ar6/test/wg2/chapter-14#14.5.5.2.3_p2,['Canada']
+ar6/test/wg2/chapter-14#14.5.5.3_p4,['Canada']
+ar6/test/wg2/chapter-14#14.5.5.3_p7,['Canada']
+ar6/test/wg2/chapter-14#14.5.5.3_p8,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.5.3_p9,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#box-14.4_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.6.2_p1,['Canada']
+ar6/test/wg2/chapter-14#14.5.6.2_p2,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.6.3_p2,['Canada']
+ar6/test/wg2/chapter-14#14.5.6.4 _p1,['Canada']
+ar6/test/wg2/chapter-14#14.5.6.4 _p2,['Canada']
+ar6/test/wg2/chapter-14#14.5.6.4 _p3,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.6.5_p1,['Canada']
+ar6/test/wg2/chapter-14#14.5.6.5_p2,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.6.6 _p1,['Canada']
+ar6/test/wg2/chapter-14#14.5.6.6 _p2,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.6.6 _p4,['Canada']
+ar6/test/wg2/chapter-14#14.5.6.7_p1,['Canada']
+ar6/test/wg2/chapter-14#14.5.6.7_p2,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.6.7_p3,['Canada']
+ar6/test/wg2/chapter-14#14.5.7_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.7.1.1_p1,['Canada']
+ar6/test/wg2/chapter-14#14.5.7.1.3_p1,['Canada']
+ar6/test/wg2/chapter-14#14.5.8_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.8.1.2_p1,['Canada']
+ar6/test/wg2/chapter-14#14.5.8.1.3_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.8.1.3_p2,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.8.1.4_p1,['Canada']
+ar6/test/wg2/chapter-14#14.5.8.1.5_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.8.2_p2,['Canada']
+ar6/test/wg2/chapter-14#14.5.8.2_p4,['Canada']
+ar6/test/wg2/chapter-14#box-14.5_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.9.1_p4,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.9.1_p6,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#box-14.6_p2,['Canada']
+ar6/test/wg2/chapter-14#box-14.6_p4,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#box-14.6_p6,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#box-14.6_p7,['Canada']
+ar6/test/wg2/chapter-14#box-14.6_p10,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.10.1.1_p1,|['Canada', 'Mexico']|
+ar6/test/wg2/chapter-14#14.7.1.2_p2,['Canada']
+ar6/test/wg2/chapter-14#14.7.1.2_p3,['Canada']
+ar6/test/wg2/chapter-14#14.7.1.3_p4,['Canada']
+ar6/test/wg2/chapter-14#14.7.1.4_p2,['Canada']
+ar6/test/wg2/chapter-14#14.7.1.4_p3,['Canada']
+ar6/test/wg2/chapter-14#14.7.1.4_p4,['Canada']
+ar6/test/wg2/chapter-14#14.7.2.1_p7,['Canada']
+ar6/test/wg2/chapter-14#14.7.2.2_p2,['Canada']
+ar6/test/wg2/chapter-14#14.7.2.3_p2,['Canada']
+ar6/test/wg2/chapter-14#box-14.7_p3,['Canada']
+ar6/test/wg2/chapter-2#2.4.1_p2,|['Canada', 'Australia']|
+ar6/test/wg2/chapter-2#2.4.2.3.1_p1,['Canada']
+ar6/test/wg2/chapter-2#2.4.2.8_p10,['Canada']
+ar6/test/wg2/chapter-2#2.4.3.7_p2,['Canada']
+ar6/test/wg2/chapter-2#2.4.3.7_p3,['Canada']
+ar6/test/wg2/chapter-2#2.4.4.2.1_p2,['Canada']
+ar6/test/wg2/chapter-2#2.4.4.2.3_p6,|['Canada', 'Russia']|
+ar6/test/wg2/chapter-2#2.4.4.2.4_p1,|['Canada', 'Australia']|
+ar6/test/wg2/chapter-2#FAQ 2.3_p5,|['Canada', 'Switzerland']|
+ar6/test/wg2/chapter-2#FAQ 2.3_p6,|['Canada', 'Australia', 'Indonesia']|
+ar6/test/wg2/chapter-2#2.4.5_p5,|['Canada', 'Nepal']|
+ar6/test/wg2/chapter-2#2.5.2.8 _p1,['Canada']
+ar6/test/wg2/chapter-2#2.5.3.2.2_p5,['Canada']
+ar6/test/wg2/chapter-2#2.5.3.3_p3,['Canada']
+ar6/test/wg2/chapter-5#5.5.3.1_p1,|['Canada', 'Australia']|
+ar6/test/wg2/chapter-5#5.6.1_p4,['Canada']
+ar6/test/wg2/chapter-5#5.6.2_p4,['Canada']
+ar6/test/wg2/chapter-5#5.9.5_p1,|['Canada', 'Australia']|
+ar6/test/wg2/chapter-5#5.10.3_p4,|['Canada', 'Ghana']|
+ar6/test/wg3/chapter-7#7.3.1.4_p2,|['Canada', 'Australia', 'Chile', 'Indonesia']|
+ar6/test/wg3/chapter-7#7.4.2.3_p5,|['Canada', 'Russia']|
+ar6/test/wg3/chapter-11#11.4.1.1_p23,['Canada']
+ar6/test/wg3/chapter-11#11.6.4.2_p1,['Canada']
+ar6/test/wg3/chapter-10#box-10.6_p9,|['Canada', 'Australia', 'Japan']|
+ar6/test/wg3/chapter-17#17.4.2_p6,['Canada']
+ar6/test/wg3/chapter-6#box-6.2_p5,['Canada']
+ar6/test/wg3/chapter-6#6.4.2.3_p8,|['Canada', 'Switzerland', 'Sweden']|
+ar6/test/wg3/chapter-1#1.4.10_p5,['Canada']
+ar6/test/wg3/chapter-4#4.2.5.8_p4,['Canada']
+ar6/test/wg3/chapter-4#box-4.6_p35,['Canada']
+ar6/test/wg3/chapter-2#2.8.3.2_p2,|['Canada', 'Sweden']|
+ar6/test/wg1/chapter-1#1.3.6_p8,['Australia']
+ar6/test/wg1/chapter-1#1.5.2.1_p7,['Australia']
+ar6/test/wg1/chapter-4#4.5.1.4_p4,['Australia']
+ar6/test/wg1/chapter-4#4.5.1.4_p9,['Australia']
+ar6/test/wg1/chapter-4#4.5.3.2_p1,['Australia']
+ar6/test/wg1/chapter-4#4.6.1.1_p4,['Australia']
+ar6/test/wg1/chapter-4#4.6.1.2_p1,['Australia']
+ar6/test/wg1/chapter-4#4.6.1.2_p4,|['Australia', 'South Africa']|
+ar6/test/wg1/chapter-4#4.8_p12,['Australia']
+ar6/test/wg1/chapter-4#4.8_p15,|['Australia', 'India']|
+ar6/test/wg1/chapter-3#3.3.2.3_p18,['Australia']
+ar6/test/wg1/chapter-3#3.7.4_p4,['Australia']
+ar6/test/wg1/chapter-2#2.3.1.3.1_p3,['Australia']
+ar6/test/wg1/chapter-2#2.3.1.3.1_p4,['Australia']
+ar6/test/wg1/chapter-2#2.3.1.3.3_p2,['Australia']
+ar6/test/wg1/chapter-2#2.3.1.3.4_p2,['Australia']
+ar6/test/wg1/chapter-2#2.3.1.4.4_p2,['Australia']
+ar6/test/wg1/chapter-2#2.3.3.3_p8,['Australia']
+ar6/test/wg1/chapter-2#2.3.4.3.2_p2,['Australia']
+ar6/test/wg1/chapter-2#cross-chapter-box-2.4_p14,['Australia']
+ar6/test/wg1/chapter-2#2.4.1.2_p2,['Australia']
+ar6/test/wg2/chapter-18#18.2.2.1_p1,['Australia']
+ar6/test/wg2/chapter-18#box-18.3_p5,['Australia']
+ar6/test/wg2/chapter-18#18.4.1_p3,|['Australia', 'Honduras']|
+ar6/test/wg2/chapter-18#18.5.1.1_p2,['Australia']
+ar6/test/wg2/chapter-7#7.2.5.1_p7,['Australia']
+ar6/test/wg2/chapter-7#7.4.6.2_p2,['Australia']
+ar6/test/wg2/chapter-11#11.1.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.1.1_p2,['Australia']
+ar6/test/wg2/chapter-11#11.1.2 _p2,['Australia']
+ar6/test/wg2/chapter-11#11.2.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.2.1_p5,['Australia']
+ar6/test/wg2/chapter-11#11.2.2_p2,['Australia']
+ar6/test/wg2/chapter-11#11.2.2_p5,['Australia']
+ar6/test/wg2/chapter-11#11.2.2_p6,['Australia']
+ar6/test/wg2/chapter-11#11.3.1.1_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.1.1_p3,['Australia']
+ar6/test/wg2/chapter-11#11.3.1.2_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.1.2_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.1.2_p4,['Australia']
+ar6/test/wg2/chapter-11#11.3.1.2_p5,['Australia']
+ar6/test/wg2/chapter-11#11.3.1.3_p4,['Australia']
+ar6/test/wg2/chapter-11#box-11.1_p1,['Australia']
+ar6/test/wg2/chapter-11#box-11.1_p2,['Australia']
+ar6/test/wg2/chapter-11#box-11.1_p4,['Australia']
+ar6/test/wg2/chapter-11#box-11.1_p7,['Australia']
+ar6/test/wg2/chapter-11#box-11.1_p8,['Australia']
+ar6/test/wg2/chapter-11#box-11.1_p9,['Australia']
+ar6/test/wg2/chapter-11#11.3.2_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.2_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.2.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.2.1_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.2.1_p5,['Australia']
+ar6/test/wg2/chapter-11#11.3.2.1_p6,['Australia']
+ar6/test/wg2/chapter-11#11.3.2.1_p7,['Australia']
+ar6/test/wg2/chapter-11#11.3.2.2_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.2.2_p2,['Australia']
+ar6/test/wg2/chapter-11#box-11.2_p5,['Australia']
+ar6/test/wg2/chapter-11#11.3.3_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.3.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.3.2_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.3.2_p3,['Australia']
+ar6/test/wg2/chapter-11#11.3.3.2_p4,['Australia']
+ar6/test/wg2/chapter-11#11.3.3.3_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.3.3_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.3.3_p4,['Australia']
+ar6/test/wg2/chapter-11#11.3.3.3_p10,['Australia']
+ar6/test/wg2/chapter-11#box-11.3_p1,['Australia']
+ar6/test/wg2/chapter-11#box-11.4_p1,['Australia']
+ar6/test/wg2/chapter-11#box-11.4_p3,['Australia']
+ar6/test/wg2/chapter-11#box-11.4_p6,['Australia']
+ar6/test/wg2/chapter-11#11.3.4_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.4_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.4.1.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.4.1.2_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.4.1.2_p3,['Australia']
+ar6/test/wg2/chapter-11#11.3.4.1.2_p4,['Australia']
+ar6/test/wg2/chapter-11#11.3.4.1.3_p4,['Australia']
+ar6/test/wg2/chapter-11#11.3.4.2.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.4.2.2_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.4.3.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.4.3.2_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.4.3.2_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.4.4.3_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.5_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.5_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.1_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.1_p4,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.1_p6,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.2_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.2_p3,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.2_p4,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.3_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.3_p3,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.3_p4,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.3_p7,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.3_p8,['Australia']
+ar6/test/wg2/chapter-11#11.3.5.3_p9,['Australia']
+ar6/test/wg2/chapter-11#box-11.6_p1,['Australia']
+ar6/test/wg2/chapter-11#box-11.6_p4,['Australia']
+ar6/test/wg2/chapter-11#box-11.6_p5,['Australia']
+ar6/test/wg2/chapter-11#box-11.6_p8,['Australia']
+ar6/test/wg2/chapter-11#box-11.6_p10,['Australia']
+ar6/test/wg2/chapter-11#box-11.6_p11,['Australia']
+ar6/test/wg2/chapter-11#11.3.6.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.6.1_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.6.1_p3,['Australia']
+ar6/test/wg2/chapter-11#11.3.6.2_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.6.2_p4,['Australia']
+ar6/test/wg2/chapter-11#11.3.6.3_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.6.3_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.6.3_p4,['Australia']
+ar6/test/wg2/chapter-11#11.3.7.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.7.1_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.7.2_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.7.2_p3,['Australia']
+ar6/test/wg2/chapter-11#11.3.7.3_p3,['Australia']
+ar6/test/wg2/chapter-11#11.3.8.1_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.8.1_p3,['Australia']
+ar6/test/wg2/chapter-11#11.3.8.3_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.8.3_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.8.3_p3,['Australia']
+ar6/test/wg2/chapter-11#11.3.10_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.10.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.10.2_p2,['Australia']
+ar6/test/wg2/chapter-11#11.3.10.3_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.11_p1,['Australia']
+ar6/test/wg2/chapter-11#11.3.11_p3,['Australia']
+ar6/test/wg2/chapter-11#11.4_p1,['Australia']
+ar6/test/wg2/chapter-11#11.4.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.4.1_p2,['Australia']
+ar6/test/wg2/chapter-11#11.4.1_p6,['Australia']
+ar6/test/wg2/chapter-11#11.5.1.2_p2,['Australia']
+ar6/test/wg2/chapter-11#11.5.1.2_p3,['Australia']
+ar6/test/wg2/chapter-11#11.5.1.3_p3,['Australia']
+ar6/test/wg2/chapter-11#11.5.2.1_p1,['Australia']
+ar6/test/wg2/chapter-11#11.5.2.2_p1,['Australia']
+ar6/test/wg2/chapter-11#11.5.2.2_p2,['Australia']
+ar6/test/wg2/chapter-11#11.5.2.3_p2,['Australia']
+ar6/test/wg2/chapter-11#11.5.2.3_p3,['Australia']
+ar6/test/wg2/chapter-11#11.6_p17,['Australia']
+ar6/test/wg2/chapter-11#11.7.1_p6,['Australia']
+ar6/test/wg2/chapter-11#11.7.1_p8,['Australia']
+ar6/test/wg2/chapter-11#11.7.1_p13,['Australia']
+ar6/test/wg2/chapter-11#11.7.2_p1,['Australia']
+ar6/test/wg2/chapter-11#FAQ 11.1_p2,['Australia']
+ar6/test/wg2/chapter-11#FAQ 11.1_p3,['Australia']
+ar6/test/wg2/chapter-8#8.3.4.1_p4,['Australia']
+ar6/test/wg2/chapter-8#8.3.5.1_p5,|['Australia', 'India']|
+ar6/test/wg2/chapter-8#8.4.4_p2,|['Australia', 'Ghana']|
+ar6/test/wg2/chapter-8#8.4.5.4_p6,['Australia']
+ar6/test/wg2/chapter-8#8.4.5.6_p5,['Australia']
+ar6/test/wg2/chapter-17#17.5.1.1.3_p7,['Australia']
+ar6/test/wg2/chapter-17#17.5.1.1.3_p8,|['Australia', 'India']|
+ar6/test/wg2/chapter-6#6.2.2.4_p10,|['Australia', 'Russia']|
+ar6/test/wg2/chapter-6#6.2.2.4_p11,['Australia']
+ar6/test/wg2/chapter-6#6.2.6_p3,|['Australia', 'Nigeria']|
+ar6/test/wg2/chapter-6#6.2.6_p5,|['Australia', 'India', 'Cambodia']|
+ar6/test/wg2/chapter-6#6.3.3.3_p6,['Australia']
+ar6/test/wg2/chapter-6#6.3.4.1_p3,['Australia']
+ar6/test/wg2/chapter-6#6.4.1.3_p2,|['Australia', 'Sweden']|
+ar6/test/wg2/chapter-4#4.1.1_p5,|['Australia', 'South Africa']|
+ar6/test/wg2/chapter-4#4.2.1.1_p1,|['Australia', 'South Africa']|
+ar6/test/wg2/chapter-4#4.2.1.1_p5,['Australia']
+ar6/test/wg2/chapter-4#4.2.1.3_p7,['Australia']
+ar6/test/wg2/chapter-4#4.2.5_p8,['Australia']
+ar6/test/wg2/chapter-4#4.3.1_p3,|['Australia', 'South Africa', 'Zambia']|
+ar6/test/wg2/chapter-4#4.4.1.2_p3,['Australia']
+ar6/test/wg2/chapter-4#4.4.1.3_p1,['Australia']
+ar6/test/wg2/chapter-4#4.4.3_p9,|['Australia', 'Brazil', 'Argentina', 'Mexico']|
+ar6/test/wg2/chapter-4#4.4.5_p4,['Australia']
+ar6/test/wg2/chapter-4#4.5.2_p3,|['Australia', 'India']|
+ar6/test/wg2/chapter-4#4.5.8_p2,['Australia']
+ar6/test/wg2/chapter-4#4.6.2_p5,['Australia']
+ar6/test/wg2/chapter-4#box-4.3_p4,['Australia']
+ar6/test/wg2/chapter-4#4.6.6_p3,['Australia']
+ar6/test/wg2/chapter-4#4.7.2_p7,|['Australia', 'Thailand', 'Iran', 'Morocco']|
+ar6/test/wg2/chapter-4#FAQ 4.3_p5,['Australia']
+ar6/test/wg2/chapter-3#3.4.2.3_p6,|['Australia', 'Japan']|
+ar6/test/wg2/chapter-3#3.4.3.3.3_p6,['Australia']
+ar6/test/wg2/chapter-3#3.5.5.3_p5,|['Australia', 'Chile']|
+ar6/test/wg2/chapter-15#15.3.3.1.3_p6,|['Australia', 'Netherlands', 'Guinea']|
+ar6/test/wg2/chapter-15#15.5.3_p3,['Australia']
+ar6/test/wg2/chapter-2#2.3.3.3_p1,|['Australia', 'Brazil']|
+ar6/test/wg2/chapter-2#2.4.2.2_p4,['Australia']
+ar6/test/wg2/chapter-2#2.4.2.2_p6,['Australia']
+ar6/test/wg2/chapter-2#2.4.3.5_p1,['Australia']
+ar6/test/wg2/chapter-2#2.4.3.6_p1,['Australia']
+ar6/test/wg2/chapter-2#2.4.4.2.1_p1,['Australia']
+ar6/test/wg2/chapter-2#2.4.4.2.2_p1,|['Australia', 'Russia']|
+ar6/test/wg2/chapter-2#2.4.4.2.3_p1,['Australia']
+ar6/test/wg2/chapter-2#2.4.4.2.3_p3,['Australia']
+ar6/test/wg2/chapter-2#2.4.4.2.3_p9,['Australia']
+ar6/test/wg2/chapter-2#2.4.4.3.1_p4,['Australia']
+ar6/test/wg2/chapter-2#2.4.4.3.4_p1,['Australia']
+ar6/test/wg2/chapter-2#2.4.4.4.2_p1,|['Australia', 'Indonesia']|
+ar6/test/wg2/chapter-2#2.4.4.4.4_p1,['Australia']
+ar6/test/wg2/chapter-2#2.4.5_p8,['Australia']
+ar6/test/wg2/chapter-2#2.5.1.3.3_p7,['Australia']
+ar6/test/wg2/chapter-2#2.5.2.3_p1,['Australia']
+ar6/test/wg2/chapter-2#2.5.2.4 _p1,|['Australia', 'Chile', 'South Africa']|
+ar6/test/wg2/chapter-2#2.5.2.5_p2,['Australia']
+ar6/test/wg2/chapter-2#2.5.2.6_p2,['Australia']
+ar6/test/wg2/chapter-2#2.5.3.2.2_p1,['Australia']
+ar6/test/wg2/chapter-2#2.5.3.2.2_p3,['Australia']
+ar6/test/wg2/chapter-5#5.4.1.1_p4,['Australia']
+ar6/test/wg2/chapter-5#5.7.4.2.2_p1,|['Australia', 'Argentina', 'India']|
+ar6/test/wg2/chapter-5#5.7.4.2.2_p2,['Australia']
+ar6/test/wg2/chapter-5#5.9.3.1_p1,['Australia']
+ar6/test/wg2/chapter-5#5.9.4.1_p1,|['Australia', 'India', 'South Africa', 'Myanmar', 'Bangladesh']|
+ar6/test/wg2/chapter-5#5.10.1.1_p2,|['Australia', 'Ethiopia']|
+ar6/test/wg2/chapter-5#5.10.1.1_p3,|['Australia', 'Senegal']|
+ar6/test/wg3/chapter-7#7.3.1.4_p1,['Australia']
+ar6/test/wg3/chapter-7#7.4.2.8_p6,|['Australia', 'South Africa']|
+ar6/test/wg3/chapter-7#7.6.1_p6,['Australia']
+ar6/test/wg3/chapter-7#7.6.1_p8,['Australia']
+ar6/test/wg3/chapter-7#7.6.1_p19,['Australia']
+ar6/test/wg3/chapter-9#9.3.1_p3,|['Australia', 'Japan']|
+ar6/test/wg3/chapter-9#box-9.2_p13,|['Australia', 'Japan']|
+ar6/test/wg3/chapter-9#9.8.5.2_p2,['Australia']
+ar6/test/wg3/chapter-8#8.3.1_p5,|['Australia', 'Japan']|
+ar6/test/wg3/chapter-10#10.1.2_p4,|['Australia', 'Japan']|
+ar6/test/wg3/chapter-10#box-10.6_p1,['Australia']
+ar6/test/wg3/chapter-10#box-10.6_p6,['Australia']
+ar6/test/wg3/chapter-17#17.3.3.2_p5,['Australia']
+ar6/test/wg3/chapter-17#17.4.4_p5,['Australia']
+ar6/test/wg3/chapter-6#6.4.2.1_p2,['Australia']
+ar6/test/wg3/chapter-6#6.4.5.1_p17,|['Australia', 'Japan', 'Saudi Arabia']|
+ar6/test/wg3/chapter-6#6.4.5.2_p2,['Australia']
+ar6/test/wg3/chapter-4#box-4.6_p25,['Australia']
+ar6/test/wg3/chapter-3#3.3.3_p1,['Australia']
+ar6/test/wg3/chapter-12#12.4.4.3_p5,|['Australia', 'Chile', 'France', 'Sweden']|
+ar6/test/wg3/chapter-14#14.4.4_p5,['Australia']
+ar6/test/wg3/chapter-14#14.5.2.1_p3,|['Australia', 'Brazil', 'Indonesia']|
+ar6/test/wg3/chapter-14#14.5.3_p5,['Australia']
+ar6/test/wg3/chapter-14#14.5.4_p14,['Australia']
+ar6/test/wg3/chapter-13#13.2.3.1_p3,['Australia']
+ar6/test/wg3/chapter-13#13.4.2_p7,|['Australia', 'South Africa']|
+ar6/test/wg3/chapter-13#13.4.3_p6,['Australia']
+ar6/test/wg3/chapter-2#2.2.3_p1,|['Australia', 'Japan']|
+ar6/test/wg3/chapter-2#2.4.2.1_p4,|['Australia', 'Japan']|
+ar6/test/wg3/chapter-2#2.4.2.2_p1,|['Australia', 'Japan']|
+ar6/test/wg3/chapter-5#5.6.4_p4,|['Australia', 'France']|
+ar6/test/wg2/chapter-6#6.2.3.1_p1,|['Chile', 'Brazil', 'Philippines', 'Bangladesh']|
+ar6/test/wg2/chapter-6#6.2.4.6_p2,|['Chile', 'Mexico']|
+ar6/test/wg2/chapter-4#4.5.2_p8,['Chile']
+ar6/test/wg2/chapter-3#3.4.2.3_p5,['Chile']
+ar6/test/wg2/chapter-3#FAQ 3.4_p3,['Chile']
+ar6/test/wg2/chapter-12#12.2_p2,['Chile']
+ar6/test/wg2/chapter-12#12.3.7.1_p1,['Chile']
+ar6/test/wg2/chapter-12#12.3.7.1_p2,['Chile']
+ar6/test/wg2/chapter-12#12.3.7.1_p3,['Chile']
+ar6/test/wg2/chapter-12#12.3.7.1_p4,['Chile']
+ar6/test/wg2/chapter-12#12.3.7.1_p6,['Chile']
+ar6/test/wg2/chapter-12#12.3.7.3_p1,['Chile']
+ar6/test/wg2/chapter-12#12.3.7.3_p2,['Chile']
+ar6/test/wg2/chapter-12#12.3.7.3_p6,['Chile']
+ar6/test/wg2/chapter-12#12.3.7.4_p6,['Chile']
+ar6/test/wg2/chapter-12#12.3.7.4_p8,['Chile']
+ar6/test/wg2/chapter-12#12.3.8.1_p1,['Chile']
+ar6/test/wg2/chapter-12#12.5.1.3_p1,['Chile']
+ar6/test/wg2/chapter-12#12.5.1.3_p4,|['Chile', 'Brazil', 'Argentina', 'Peru', 'Colombia', 'Bolivia', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.2_p2,|['Chile', 'Argentina', 'Peru', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.2.2_p3,['Chile']
+ar6/test/wg2/chapter-12#12.5.2.2_p4,|['Chile', 'Brazil', 'Argentina', 'Peru', 'Colombia']|
+ar6/test/wg2/chapter-12#12.5.2.3_p7,|['Chile', 'Brazil', 'Argentina', 'Peru', 'Colombia', 'Honduras', 'Guatemala', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.3.1_p1,|['Chile', 'Brazil', 'Argentina', 'Peru']|
+ar6/test/wg2/chapter-12#12.5.3.1_p4,|['Chile', 'Peru', 'Colombia', 'Guatemala']|
+ar6/test/wg2/chapter-12#12.5.3.2_p3,|['Chile', 'Peru']|
+ar6/test/wg2/chapter-12#12.5.3.3_p1,|['Chile', 'Argentina', 'Peru', 'Colombia', 'Ecuador', 'Venezuela']|
+ar6/test/wg2/chapter-12#12.5.3.4_p3,|['Chile', 'Venezuela']|
+ar6/test/wg2/chapter-12#12.5.4.2_p11,|['Chile', 'Brazil', 'Argentina', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.5.2_p2,['Chile']
+ar6/test/wg2/chapter-12#12.5.5.3.3_p2,|['Chile', 'Brazil', 'Peru', 'Colombia', 'Honduras', 'Guatemala', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.6.6.1_p1,|['Chile', 'Brazil', 'Peru', 'Colombia', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.6.6.2_p1,|['Chile', 'Brazil', 'Argentina', 'Peru', 'Colombia', 'Honduras', 'Bolivia', 'Guatemala', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.8.2_p2,['Chile']
+ar6/test/wg2/chapter-12#12.5.8.3_p2,['Chile']
+ar6/test/wg2/chapter-12#12.5.8.5_p2,|['Chile', 'Brazil', 'Argentina', 'Mexico', 'Colombia']|
+ar6/test/wg2/chapter-12#FAQ 12.1_p6,|['Chile', 'Brazil', 'Argentina', 'Mexico', 'Guatemala']|
+ar6/test/wg2/chapter-12#FAQ 12.2_p10,|['Chile', 'Brazil', 'Argentina', 'Peru']|
+ar6/test/wg2/chapter-12#FAQ 12.5_p6,|['Chile', 'Guatemala']|
+ar6/test/wg2/chapter-15#15.3.4.4_p2,|['Chile', 'Guinea', 'Papua New Guinea']|
+ar6/test/wg2/chapter-2#2.4.3.4_p6,|['Chile', 'South Africa']|
+ar6/test/wg2/chapter-2#2.4.4.2.3_p8,['Chile']
+ar6/test/wg2/chapter-2#2.6.3_p7,['Chile']
+ar6/test/wg2/chapter-5#5.4.3.4_p2,['Chile']
+ar6/test/wg2/chapter-5#5.9.1_p1,['Chile']
+ar6/test/wg2/chapter-5#5.9.2.1_p1,|['Chile', 'India', 'Philippines', 'Bangladesh', 'Ghana']|
+ar6/test/wg2/chapter-5#5.10.2.2_p1,|['Chile', 'Uganda', 'Kenya', 'Bangladesh', 'Malawi']|
+ar6/test/wg3/chapter-5#5.6.2.2_p4,|['Chile', 'Argentina', 'Colombia']|
+ar6/test/wg2/chapter-7#7.2.6_p6,|['Senegal', 'India', 'South Africa', 'Mexico', 'Philippines', 'Bangladesh', 'Tanzania']|
+ar6/test/wg2/chapter-9#9.4.3_p9,['Senegal']
+ar6/test/wg2/chapter-9#9.9.2.1_p5,|['Senegal', 'Benin']|
+ar6/test/wg2/chapter-8#8.4.5.4_p10,|['Senegal', 'Kenya', 'Ethiopia']|
+ar6/test/wg2/chapter-6#6.4.2.1_p3,|['Senegal', 'India', 'Indonesia']|
+ar6/test/wg2/chapter-4#4.6.5_p6,|['Senegal', 'Brazil', 'Kenya']|
+ar6/test/wg2/chapter-5#5.12.7_p2,['Senegal']
+ar6/test/wg2/chapter-2#2.6.5.1_p5,['Belgium']
+ar6/test/wg3/chapter-9#9.8.5.1_p3,['Belgium']
+ar6/test/wg1/chapter-2#2.2.5.2_p2,['Switzerland']
+ar6/test/wg2/chapter-4#4.3.2_p4,|['Switzerland', 'Brazil', 'Ghana']|
+ar6/test/wg2/chapter-4#4.4.2_p3,|['Switzerland', 'India']|
+ar6/test/wg2/chapter-4#4.5.2_p4,|['Switzerland', 'Brazil', 'India', 'Colombia', 'Ecuador']|
+ar6/test/wg3/chapter-9#9.9.3_p3,['Switzerland']
+ar6/test/wg3/chapter-11#11.6.1_p2,['Switzerland']
+ar6/test/wg3/chapter-10#box-10.5_p11,['Switzerland']
+ar6/test/wg3/chapter-14#14.3.2.7_p1,|['Switzerland', 'Peru', 'India']|
+ar6/test/wg3/chapter-14#14.4.4_p3,|['Switzerland', 'Peru']|
+ar6/test/wg3/chapter-13#13.6.6.2_p2,['Switzerland']
+ar6/test/wg1/chapter-1#1.2.3.2_p4,['Thailand']
+ar6/test/wg2/chapter-7#7.2.2.1 _p4,|['Thailand', 'India', 'Indonesia', 'Philippines', 'Colombia', 'Jordan', 'Vietnam', 'Ecuador']|
+ar6/test/wg2/chapter-10#10.3.3_p6,|['Thailand', 'Vietnam', 'Nepal']|
+ar6/test/wg2/chapter-10#10.4.3_p9,|['Thailand', 'Japan', 'India', 'Indonesia', 'Philippines']|
+ar6/test/wg2/chapter-10#10.4.3_p12,['Thailand']
+ar6/test/wg2/chapter-10#10.4.5.2.1_p2,|['Thailand', 'Indonesia', 'Philippines', 'Bangladesh', 'Malaysia']|
+ar6/test/wg2/chapter-10#10.4.5.4_p3,['Thailand']
+ar6/test/wg2/chapter-10#10.4.5.5_p3,['Thailand']
+ar6/test/wg2/chapter-10#10.6.4_p2,|['Thailand', 'India']|
+ar6/test/wg2/chapter-6#box-6.1_p3,|['Thailand', 'Russia']|
+ar6/test/wg2/chapter-6#6.3.3.3_p5,['Thailand']
+ar6/test/wg2/chapter-4#4.5.1_p4,|['Thailand', 'Indonesia', 'Philippines', 'Vietnam', 'Nepal', 'Cambodia']|
+ar6/test/wg2/chapter-2#2.6.5.3_p3,['Thailand']
+ar6/test/wg2/chapter-2#2.6.5.3_p4,['Thailand']
+ar6/test/wg2/chapter-5#5.9.1_p2,|['Thailand', 'India', 'Myanmar', 'Bangladesh', 'Ghana', 'Cambodia']|
+ar6/test/wg2/chapter-5#5.9.4.2_p1,['Thailand']
+ar6/test/wg3/chapter-9#box-9.1_p5,['Thailand']
+ar6/test/wg3/chapter-9#2.	Market-based instruments_p5,|['Thailand', 'France', 'South Africa', 'Malaysia']|
+ar6/test/wg3/chapter-8#8.2.1_p8,|['Thailand', 'India', 'Indonesia', 'Vietnam']|
+ar6/test/wg3/chapter-4#4.2.4.3_p7,|['Thailand', 'India', 'Nepal']|
+ar6/test/wg3/chapter-4#4.2.5.6_p2,|['Thailand', 'Brazil', 'India', 'Indonesia', 'South Africa', 'Philippines', 'Bangladesh', 'Vietnam', 'Pakistan', 'Nigeria']|
+ar6/test/wg1/chapter-1#1.2.3.4_p1,['Brazil']
+ar6/test/wg1/chapter-5#cross-chapter-box-5.2_p7,|['Brazil', 'Russia']|
+ar6/test/wg2/chapter-7#7.2.6.1_p5,|['Brazil', 'Ethiopia', 'Bangladesh', 'Pakistan']|
+ar6/test/wg2/chapter-7#7.4.2.8_p1,|['Brazil', 'Mexico', 'Colombia', 'Ethiopia', 'Malaysia']|
+ar6/test/wg2/chapter-8#8.3.2.5_p10,['Brazil']
+ar6/test/wg2/chapter-8#8.3.5.1_p7,|['Brazil', 'Peru']|
+ar6/test/wg2/chapter-8#box-8.6_p1,|['Brazil', 'Peru', 'Colombia', 'Bolivia']|
+ar6/test/wg2/chapter-8#box-8.6_p2,['Brazil']
+ar6/test/wg2/chapter-8#8.5.2.1_p13,|['Brazil', 'Portugal']|
+ar6/test/wg2/chapter-8#8.5.2.1_p15,|['Brazil', 'Argentina']|
+ar6/test/wg2/chapter-6#6.2.6_p2,|['Brazil', 'Indonesia', 'Philippines', 'Italy', 'Vietnam', 'Mozambique']|
+ar6/test/wg2/chapter-6#6.4.2.1_p1,|['Brazil', 'South Africa']|
+ar6/test/wg2/chapter-4#4.3.4_p4,|['Brazil', 'South Africa']|
+ar6/test/wg2/chapter-4#box-4.3_p5,|['Brazil', 'India', 'South Africa', 'Bangladesh', 'Vietnam']|
+ar6/test/wg2/chapter-3#3.4.2.8_p1,['Brazil']
+ar6/test/wg2/chapter-12#12.2_p3,|['Brazil', 'Honduras', 'Guatemala']|
+ar6/test/wg2/chapter-12#12.2_p8,|['Brazil', 'Colombia', 'Honduras', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.3.3.1_p3,['Brazil']
+ar6/test/wg2/chapter-12#12.3.4.2_p2,['Brazil']
+ar6/test/wg2/chapter-12#12.3.4.4_p1,['Brazil']
+ar6/test/wg2/chapter-12#12.3.4.4_p3,['Brazil']
+ar6/test/wg2/chapter-12#12.3.4.4_p5,|['Brazil', 'Bolivia']|
+ar6/test/wg2/chapter-12#12.3.5.4_p1,['Brazil']
+ar6/test/wg2/chapter-12#12.3.5.4_p3,['Brazil']
+ar6/test/wg2/chapter-12#12.3.5.4_p4,['Brazil']
+ar6/test/wg2/chapter-12#12.3.6.1_p2,|['Brazil', 'Argentina']|
+ar6/test/wg2/chapter-12#12.3.6.2_p3,['Brazil']
+ar6/test/wg2/chapter-12#12.3.6.2_p4,['Brazil']
+ar6/test/wg2/chapter-12#12.3.6.3_p1,['Brazil']
+ar6/test/wg2/chapter-12#12.3.6.4_p1,|['Brazil', 'Argentina']|
+ar6/test/wg2/chapter-12#12.3.6.4_p6,['Brazil']
+ar6/test/wg2/chapter-12#12.5.1.1_p1,|['Brazil', 'Argentina', 'Peru', 'Colombia', 'Bolivia', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.1.2_p1,['Brazil']
+ar6/test/wg2/chapter-12#12.5.1.3_p2,['Brazil']
+ar6/test/wg2/chapter-12#12.5.1.3_p7,|['Brazil', 'Honduras', 'Bolivia', 'Guatemala', 'Venezuela']|
+ar6/test/wg2/chapter-12#12.5.1.3_p8,['Brazil']
+ar6/test/wg2/chapter-12#12.5.2.2_p2,|['Brazil', 'Colombia', 'Honduras', 'Guatemala']|
+ar6/test/wg2/chapter-12#12.5.3.3_p3,['Brazil']
+ar6/test/wg2/chapter-12#12.5.4.2_p3,['Brazil']
+ar6/test/wg2/chapter-12#12.5.4.2_p10,|['Brazil', 'Colombia']|
+ar6/test/wg2/chapter-12#12.5.4.3_p2,|['Brazil', 'Argentina', 'Colombia']|
+ar6/test/wg2/chapter-12#12.5.4.3_p3,['Brazil']
+ar6/test/wg2/chapter-12#12.5.5.3.2_p4,|['Brazil', 'Honduras', 'Guatemala', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.6.1_p2,|['Brazil', 'Argentina', 'Peru', 'Colombia', 'Bolivia', 'Ecuador', 'Venezuela']|
+ar6/test/wg2/chapter-12#12.5.6.1_p3,|['Brazil', 'Peru', 'Mexico', 'Colombia', 'Ecuador', 'Dominican Republic']|
+ar6/test/wg2/chapter-12#12.5.6.1_p5,|['Brazil', 'Colombia']|
+ar6/test/wg2/chapter-12#12.5.6.2_p2,|['Brazil', 'Argentina']|
+ar6/test/wg2/chapter-12#12.5.6.3_p1,|['Brazil', 'Argentina', 'Colombia']|
+ar6/test/wg2/chapter-12#12.5.6.3_p2,|['Brazil', 'Colombia', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.6.4_p5,|['Brazil', 'Colombia', 'Bolivia']|
+ar6/test/wg2/chapter-12#12.5.6.4_p6,|['Brazil', 'Colombia']|
+ar6/test/wg2/chapter-12#12.5.8.1_p1,['Brazil']
+ar6/test/wg2/chapter-12#12.5.8.4_p1,|['Brazil', 'Peru', 'Colombia', 'Guatemala']|
+ar6/test/wg2/chapter-12#12.5.8.4_p5,|['Brazil', 'Peru', 'Guatemala']|
+ar6/test/wg2/chapter-12#12.5.8.5_p4,['Brazil']
+ar6/test/wg2/chapter-12#12.8_p2,|['Brazil', 'Argentina']|
+ar6/test/wg2/chapter-12#12.8_p3,['Brazil']
+ar6/test/wg2/chapter-12#FAQ 12.1_p5,|['Brazil', 'Peru']|
+ar6/test/wg2/chapter-12#FAQ 12.3_p3,|['Brazil', 'Honduras', 'Guatemala']|
+ar6/test/wg2/chapter-12#FAQ 12.3_p5,['Brazil']
+ar6/test/wg2/chapter-12#FAQ 12.4_p7,|['Brazil', 'Colombia']|
+ar6/test/wg2/chapter-12#FAQ 12.5_p5,|['Brazil', 'Venezuela']|
+ar6/test/wg2/chapter-12#Boucher--2013,['Brazil']
+ar6/test/wg2/chapter-2#2.4.4.2.3_p2,['Brazil']
+ar6/test/wg2/chapter-2#2.4.4.4.3_p1,|['Brazil', 'Indonesia']|
+ar6/test/wg2/chapter-2#2.5.2.6_p1,['Brazil']
+ar6/test/wg2/chapter-2#2.5.3.6.1_p2,['Brazil']
+ar6/test/wg2/chapter-2#2.6.8 _p6,['Brazil']
+ar6/test/wg3/chapter-7#7.4_p6,['Brazil']
+ar6/test/wg3/chapter-7#7.4.2.9_p4,|['Brazil', 'Indonesia']|
+ar6/test/wg3/chapter-7#box-7.3_p6,['Brazil']
+ar6/test/wg3/chapter-7#box-7.3_p11,['Brazil']
+ar6/test/wg3/chapter-7#7.6.1_p7,['Brazil']
+ar6/test/wg3/chapter-7#7.6.1_p11,['Brazil']
+ar6/test/wg3/chapter-7#7.6.2.1_p7,['Brazil']
+ar6/test/wg3/chapter-7#7.6.2.2_p1,['Brazil']
+ar6/test/wg3/chapter-7#box-7.9_p5,['Brazil']
+ar6/test/wg3/chapter-7#box-7.9_p10,['Brazil']
+ar6/test/wg3/chapter-7#box-7.9_p11,['Brazil']
+ar6/test/wg3/chapter-7#7.6.2.4_p2,|['Brazil', 'Indonesia']|
+ar6/test/wg3/chapter-7#7.6.2.4_p3,['Brazil']
+ar6/test/wg3/chapter-7#7.6.3_p4,|['Brazil', 'Indonesia']|
+ar6/test/wg3/chapter-16#16.6.3_p2,|['Brazil', 'Rwanda']|
+ar6/test/wg3/chapter-9#1.	Regulatory instruments _p8,|['Brazil', 'India']|
+ar6/test/wg3/chapter-4#4.2.5.1_p7,['Brazil']
+ar6/test/wg3/chapter-4#box-4.3_p5,|['Brazil', 'Portugal']|
+ar6/test/wg3/chapter-4#4.2.5.3_p1,['Brazil']
+ar6/test/wg3/chapter-4#4.2.5.4_p1,|['Brazil', 'Japan', 'France', 'Italy', 'Sweden']|
+ar6/test/wg3/chapter-4#4.3.2.1_p3,|['Brazil', 'India', 'Indonesia', 'South Africa']|
+ar6/test/wg3/chapter-4#4.4.1.10_p1,['Brazil']
+ar6/test/wg3/chapter-4#4.4.1.10_p3,['Brazil']
+ar6/test/wg3/chapter-4#4.4.1.10_p4,['Brazil']
+ar6/test/wg3/chapter-4#box-4.6_p5,['Brazil']
+ar6/test/wg3/chapter-12#12.4.1_p8,['Brazil']
+ar6/test/wg3/chapter-14#14.5.2.1_p6,|['Brazil', 'Indonesia']|
+ar6/test/wg3/chapter-13#13.2.2_p7,|['Brazil', 'Madagascar']|
+ar6/test/wg3/chapter-13#13.2.3.1_p4,|['Brazil', 'India', 'South Africa']|
+ar6/test/wg3/chapter-13#13.2.3.1_p5,['Brazil']
+ar6/test/wg3/chapter-13#13.3.2_p4,['Brazil']
+ar6/test/wg3/chapter-13#13.7.2_p7,|['Brazil', 'Indonesia', 'Ghana', 'Zimbabwe']|
+ar6/test/wg3/chapter-2#2.4.2.5_p6,|['Brazil', 'India', 'South Africa', 'Mexico', 'Egypt']|
+ar6/test/wg3/chapter-5#5.3.2_p5,|['Brazil', 'Japan', 'Italy']|
+ar6/test/wg3/chapter-5#box-5.10_p6,|['Brazil', 'Peru', 'India']|
+ar6/test/wg1/chapter-5#5.2.2.2_p2,['Japan']
+ar6/test/wg2/chapter-7#7.2.4.1_p1,|['Japan', 'Russia', 'India', 'Mexico', 'Pakistan', 'Venezuela']|
+ar6/test/wg2/chapter-10#10.1_p1,|['Japan', 'Afghanistan']|
+ar6/test/wg2/chapter-10#10.3.1.2_p3,['Japan']
+ar6/test/wg2/chapter-10#10.3.1.2_p5,['Japan']
+ar6/test/wg2/chapter-10#10.3.3_p9,['Japan']
+ar6/test/wg2/chapter-10#10.4.2.1.4_p3,['Japan']
+ar6/test/wg2/chapter-10#10.4.3.3_p10,['Japan']
+ar6/test/wg2/chapter-10#10.4.5.2.2_p2,['Japan']
+ar6/test/wg2/chapter-10#10.4.5.2.4_p4,['Japan']
+ar6/test/wg2/chapter-10#10.4.6.1_p2,['Japan']
+ar6/test/wg2/chapter-10#10.4.6.3.2_p2,|['Japan', 'India', 'Pakistan']|
+ar6/test/wg2/chapter-10#10.4.6.4.1_p3,|['Japan', 'Bangladesh', 'Nepal']|
+ar6/test/wg2/chapter-10#10.4.7.2_p6,['Japan']
+ar6/test/wg2/chapter-10#10.5.1.2_p3,['Japan']
+ar6/test/wg2/chapter-10#10.5.2.2.2_p1,['Japan']
+ar6/test/wg2/chapter-10#10.5.6.1_p2,|['Japan', 'Indonesia', 'Bangladesh', 'Pakistan']|
+ar6/test/wg2/chapter-15#15.3.3.1.2_p2,['Japan']
+ar6/test/wg3/chapter-16#16.4.4.3_p3,['Japan']
+ar6/test/wg3/chapter-9#9.8.4.1_p1,['Japan']
+ar6/test/wg3/chapter-11#11.3.4.1_p2,['Japan']
+ar6/test/wg3/chapter-11#11.4.3_p5,['Japan']
+ar6/test/wg3/chapter-11#11.6.5_p1,['Japan']
+ar6/test/wg3/chapter-10#10.6.4_p7,['Japan']
+ar6/test/wg3/chapter-17#17.3.2.1_p7,|['Japan', 'South Africa']|
+ar6/test/wg3/chapter-6#6.6.3_p1,['Japan']
+ar6/test/wg3/chapter-4#4.2.4.3_p4,['Japan']
+ar6/test/wg3/chapter-4#4.2.5.5_p1,|['Japan', 'Portugal']|
+ar6/test/wg3/chapter-12#12.4.4.2_p7,['Japan']
+ar6/test/wg3/chapter-13#13.9.5_p3,|['Japan', 'India']|
+ar6/test/wg3/chapter-2#2.3.3_p7,|['Japan', 'Netherlands']|
+ar6/test/wg3/chapter-2#2.6.1_p3,['Japan']
+ar6/test/wg2/chapter-12#12.3.8.2_p1,['Argentina']
+ar6/test/wg2/chapter-12#12.3.8.4_p1,['Argentina']
+ar6/test/wg2/chapter-12#12.3.8.4_p2,['Argentina']
+ar6/test/wg2/chapter-12#12.5.2.4_p2,['Argentina']
+ar6/test/wg2/chapter-12#12.5.3.3_p5,|['Argentina', 'Venezuela']|
+ar6/test/wg2/chapter-12#12.5.6.1_p4,|['Argentina', 'Peru']|
+ar6/test/wg2/chapter-12#FAQ 12.2_p11,|['Argentina', 'Peru']|
+ar6/test/wg3/chapter-17#17.4.4_p3,['Argentina']
+ar6/test/wg3/chapter-4#box-4.6_p30,['Argentina']
+ar6/test/wg2/chapter-18#box-18.2_p2,|['Sudan', 'Kenya', 'Ethiopia', 'South Sudan']|
+ar6/test/wg2/chapter-7#7.4.6.4_p3,|['Sudan', 'South Sudan', 'Pakistan', 'Malawi', 'Nepal', 'Somalia', 'Tajikistan']|
+ar6/test/wg2/chapter-9#9.1.1_p1,|['Sudan', 'Madagascar']|
+ar6/test/wg2/chapter-9#9.5.5.2.2_p4,|['Sudan', 'Uganda', 'Kenya', 'South Sudan', 'Tanzania', 'Somalia']|
+ar6/test/wg2/chapter-9#9.8.2.1_p7,['Sudan']
+ar6/test/wg2/chapter-9#9.9.4.1.1_p1,|['Sudan', 'Nigeria', 'Egypt']|
+ar6/test/wg2/chapter-9#9.11.4_p3,|['Sudan', 'South Africa', 'Niger', 'Nigeria', 'Chad']|
+ar6/test/wg2/chapter-9#box-9.9_p6,|['Sudan', 'Kenya', 'South Sudan']|
+ar6/test/wg2/chapter-9#box-9.9_p7,|['Sudan', 'Uganda', 'Kenya', 'Ethiopia', 'Somalia']|
+ar6/test/wg2/chapter-8#8.3.2.3_p2,|['Sudan', 'Uganda', 'South Africa', 'South Sudan']|
+ar6/test/wg2/chapter-8#8.4.2_p3,|['Sudan', 'Nigeria']|
+ar6/test/wg2/chapter-8#8.4.5.5_p2,|['Sudan', 'Ethiopia', 'Ghana', 'Cambodia']|
+ar6/test/wg2/chapter-5#5.7.2_p1,|['Sudan', 'India', 'Ethiopia', 'Cambodia']|
+ar6/test/wg2/chapter-18#18.3.1.2_p4,['Netherlands']
+ar6/test/wg2/chapter-8#8.4.1.1_p4,|['Netherlands', 'Mexico', 'Bangladesh']|
+ar6/test/wg2/chapter-6#6.4.1.4_p4,['Netherlands']
+ar6/test/wg2/chapter-13#13.2.2.1.2_p6,['Netherlands']
+ar6/test/wg2/chapter-13#13.7.2_p2,|['Netherlands', 'Sweden', 'Poland']|
+ar6/test/wg2/chapter-13#13.8.1.2_p2,['Netherlands']
+ar6/test/wg2/chapter-13#13.11.1.1_p6,['Netherlands']
+ar6/test/wg2/chapter-13#13.11.1.1_p7,['Netherlands']
+ar6/test/wg2/chapter-13#13.11.3_p1,['Netherlands']
+ar6/test/wg3/chapter-7#7.6.2.2_p6,['Netherlands']
+ar6/test/wg3/chapter-7#7.6.3_p3,['Netherlands']
+ar6/test/wg3/chapter-7#7.6.3_p7,['Netherlands']
+ar6/test/wg3/chapter-16#16.4.4.1_p4,|['Netherlands', 'Ecuador']|
+ar6/test/wg3/chapter-9#9.9.2_p1,['Netherlands']
+ar6/test/wg3/chapter-11#11.6.6_p4,['Netherlands']
+ar6/test/wg3/chapter-6#6.4.5.1_p18,['Netherlands']
+ar6/test/wg3/chapter-14#14.3.2.3_p4,['Netherlands']
+ar6/test/wg3/chapter-14#14.5.1.2_p13,|['Netherlands', 'Nepal']|
+ar6/test/wg3/chapter-13#13.4.2_p6,|['Netherlands', 'France', 'Colombia', 'Pakistan']|
+ar6/test/wg3/chapter-13#13.4.2_p9,['Netherlands']
+ar6/test/wg3/chapter-13#13.6.5.4_p3,|['Netherlands', 'South Korea']|
+ar6/test/wg3/chapter-2#2.6.2_p12,|['Netherlands', 'Sweden']|
+ar6/test/wg3/chapter-2#2.8.3.1_p4,|['Netherlands', 'Sweden']|
+ar6/test/wg2/chapter-11#box-11.6_p12,['France']
+ar6/test/wg2/chapter-4#4.3.5_p4,['France']
+ar6/test/wg2/chapter-4#4.8.6_p5,['France']
+ar6/test/wg2/chapter-3#FAQ 3.4_p4,['France']
+ar6/test/wg2/chapter-15#15.3.3.1.1_p1,['France']
+ar6/test/wg2/chapter-13#13.6.1.5_p1,|['France', 'Turkey']|
+ar6/test/wg2/chapter-13#13.6.2.4_p1,['France']
+ar6/test/wg2/chapter-2#2.4.2.1_p5,['France']
+ar6/test/wg2/chapter-2#2.4.2.3.1_p2,['France']
+ar6/test/wg3/chapter-9#9.6.4_p5,['France']
+ar6/test/wg3/chapter-9#2.	Market-based instruments_p7,|['France', 'Italy']|
+ar6/test/wg3/chapter-11#11.6.4.4_p2,['France']
+ar6/test/wg3/chapter-10#10.5.5_p1,|['France', 'Sweden']|
+ar6/test/wg3/chapter-10#10.7.4_p1,['France']
+ar6/test/wg3/chapter-6#6.4.2.4_p15,|['France', 'Sweden']|
+ar6/test/wg3/chapter-6#6.4.3.2_p2,['France']
+ar6/test/wg3/chapter-1#cross-chapter-box-1_p19,['France']
+ar6/test/wg3/chapter-4#4.2.6.4_p4,['France']
+ar6/test/wg3/chapter-4#4.4.3.2_p1,['France']
+ar6/test/wg3/chapter-14#14.5.4_p3,|['France', 'Peru']|
+ar6/test/wg3/chapter-13#13.3.3_p8,['France']
+ar6/test/wg3/chapter-5#5.4.2_p14,['France']
+ar6/test/wg2/chapter-6#6.4.2.1_p2,|['Austria', 'South Africa', 'Zimbabwe']|
+ar6/test/wg2/chapter-14#14.2.1_p1,['Austria']
+ar6/test/wg2/chapter-14#14.5.3.1_p6,|['Austria', 'Mexico']|
+ar6/test/wg2/chapter-14#14.5.3.2_p4,|['Austria', 'Mexico']|
+ar6/test/wg2/chapter-13#13.2.2.1.2_p3,['Austria']
+ar6/test/wg2/chapter-13#13.7.1.3_p3,|['Austria', 'Sweden', 'Czech Republic']|
+ar6/test/wg3/chapter-11#11.4.3_p2,['Austria']
+ar6/test/wg3/chapter-4#4.2.5.2_p2,['Austria']
+ar6/test/wg2/chapter-8#8.3.4.1_p7,['Peru']
+ar6/test/wg2/chapter-8#box-8.6_p5,|['Peru', 'Bolivia']|
+ar6/test/wg2/chapter-6#box-6.6_p3,|['Peru', 'India', 'Colombia', 'Ecuador']|
+ar6/test/wg2/chapter-4#4.7.4_p10,['Peru']
+ar6/test/wg2/chapter-4#4.8.6_p2,['Peru']
+ar6/test/wg2/chapter-3#3.2.2.3_p3,['Peru']
+ar6/test/wg2/chapter-3#3.4.2.9_p1,['Peru']
+ar6/test/wg2/chapter-3#3.4.2.9_p6,['Peru']
+ar6/test/wg2/chapter-12#12.3.2.3_p3,|['Peru', 'Colombia', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.3.2.4_p3,['Peru']
+ar6/test/wg2/chapter-12#12.3.2.4_p5,|['Peru', 'Colombia', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.3.2.4_p8,['Peru']
+ar6/test/wg2/chapter-12#12.3.2.4_p10,['Peru']
+ar6/test/wg2/chapter-12#12.5.1.3_p5,['Peru']
+ar6/test/wg2/chapter-12#12.5.1.3_p6,['Peru']
+ar6/test/wg2/chapter-12#12.5.3.2_p2,|['Peru', 'Colombia', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.3.2_p4,['Peru']
+ar6/test/wg2/chapter-12#12.5.3.4_p1,|['Peru', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.5.2_p3,|['Peru', 'Colombia']|
+ar6/test/wg2/chapter-12#12.5.5.3.3_p3,['Peru']
+ar6/test/wg2/chapter-12#12.5.6.2_p1,|['Peru', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.7.3_p2,|['Peru', 'Honduras', 'Bolivia']|
+ar6/test/wg2/chapter-12#12.5.8.4_p3,|['Peru', 'Ecuador']|
+ar6/test/wg2/chapter-12#12.5.8.4_p6,|['Peru', 'Guatemala']|
+ar6/test/wg2/chapter-12#12.6.3_p1,['Peru']
+ar6/test/wg2/chapter-12#12.6.3_p4,['Peru']
+ar6/test/wg2/chapter-12#12.6.3_p6,['Peru']
+ar6/test/wg2/chapter-2#2.6.5.4_p5,['Peru']
+ar6/test/wg3/chapter-1#1.3.1_p7,['Peru']
+ar6/test/wg1/chapter-4#4.5.1.6.4_p2,['Russia']
+ar6/test/wg1/chapter-2#2.2.6_p4,['Russia']
+ar6/test/wg1/chapter-2#2.3.1.4.3_p9,['Russia']
+ar6/test/wg1/chapter-2#2.3.2.5_p2,['Russia']
+ar6/test/wg1/chapter-2#cross-chapter-box-2.4_p10,['Russia']
+ar6/test/wg1/chapter-5#5.4.9.1.3_p1,['Russia']
+ar6/test/wg2/chapter-7#box-7.1_p35,['Russia']
+ar6/test/wg2/chapter-10#10.4.2.2.1_p2,|['Russia', 'Kazakhstan']|
+ar6/test/wg2/chapter-10#10.4.6.3.7_p2,['Russia']
+ar6/test/wg2/chapter-10#10.4.6.3.7_p3,['Russia']
+ar6/test/wg2/chapter-6#6.2.4.1_p4,|['Russia', 'India']|
+ar6/test/wg2/chapter-4#4.2.2_p2,['Russia']
+ar6/test/wg2/chapter-13#13.5.3_p2,|['Russia', 'Ukraine']|
+ar6/test/wg2/chapter-13#13.7.1.1_p6,['Russia']
+ar6/test/wg2/chapter-13#13.7.1.4._p1,|['Russia', 'Hungary', 'Romania']|
+ar6/test/wg2/chapter-13#13.10.2.2_p1,['Russia']
+ar6/test/wg3/chapter-7#7.4.2.2_p4,['Russia']
+ar6/test/wg3/chapter-9#9.6.3_p8,|['Russia', 'South Africa']|
+ar6/test/wg3/chapter-12#12.5.3_p21,|['Russia', 'Ukraine', 'Belarus']|
+ar6/test/wg3/chapter-12#12.6.3.2_p8,['Russia']
+ar6/test/wg1/chapter-4#4.4.1.2_p1,['India']
+ar6/test/wg1/chapter-2#2.3.4.1_p2,['India']
+ar6/test/wg1/chapter-2#2.3.4.2.3_p3,|['India', 'Ivory Coast']|
+ar6/test/wg2/chapter-7#7.2.3.3_p2,['India']
+ar6/test/wg2/chapter-7#7.3.1.6_p4,['India']
+ar6/test/wg2/chapter-7#7.4.4.3_p2,|['India', 'Kenya', 'Vietnam']|
+ar6/test/wg2/chapter-8#8.2.1.2_p6,|['India', 'Bangladesh', 'Nepal']|
+ar6/test/wg2/chapter-8#box-8.3_p1,['India']
+ar6/test/wg2/chapter-8#8.3.4.1_p2,|['India', 'Philippines', 'Bangladesh', 'Vietnam', 'Nepal']|
+ar6/test/wg2/chapter-8#8.3.5.1_p2,|['India', 'Philippines', 'Bangladesh', 'Vietnam']|
+ar6/test/wg2/chapter-8#8.4.5.4_p5,|['India', 'Nepal']|
+ar6/test/wg2/chapter-8#8.4.5.7_p2,|['India', 'Mozambique', 'Tanzania']|
+ar6/test/wg2/chapter-8#8.5.2.1_p7,|['India', 'Indonesia', 'Vietnam', 'Nigeria']|
+ar6/test/wg2/chapter-8#8.6.1.2.1_p4,|['India', 'Malawi']|
+ar6/test/wg2/chapter-10#10.3.3_p3,|['India', 'Pakistan']|
+ar6/test/wg2/chapter-10#10.4.2.1.2_p2,['India']
+ar6/test/wg2/chapter-10#10.4.3.4_p1,['India']
+ar6/test/wg2/chapter-10#10.4.4.3_p10,|['India', 'Nepal']|
+ar6/test/wg2/chapter-10#10.4.4.3_p11,|['India', 'Sri Lanka']|
+ar6/test/wg2/chapter-10#10.4.4.5_p4,|['India', 'Bangladesh', 'Nepal']|
+ar6/test/wg2/chapter-10#10.4.4.5_p8,|['India', 'Bangladesh', 'Nepal']|
+ar6/test/wg2/chapter-10#10.4.4.5_p9,|['India', 'Nepal']|
+ar6/test/wg2/chapter-10#10.4.5_p1,['India']
+ar6/test/wg2/chapter-10#10.4.5.2.4_p1,|['India', 'Bangladesh', 'Nepal']|
+ar6/test/wg2/chapter-10#10.4.5.2.4_p2,|['India', 'Bangladesh']|
+ar6/test/wg2/chapter-10#10.4.5.3_p4,|['India', 'Pakistan', 'Sri Lanka']|
+ar6/test/wg2/chapter-10#10.4.6.4.2_p2,|['India', 'Bangladesh', 'Cambodia', 'Saudi Arabia']|
+ar6/test/wg2/chapter-10#10.4.6.4.3_p5,|['India', 'Israel']|
+ar6/test/wg2/chapter-10#10.4.6.4.4_p3,|['India', 'Philippines']|
+ar6/test/wg2/chapter-10#10.4.6.4.5_p2,|['India', 'Cambodia']|
+ar6/test/wg2/chapter-10#10.4.7.1_p3,['India']
+ar6/test/wg2/chapter-10#10.5.1.2_p2,['India']
+ar6/test/wg2/chapter-10#10.5.1.2_p10,|['India', 'Bangladesh', 'Pakistan']|
+ar6/test/wg2/chapter-10#10.5.2.2.4_p1,|['India', 'Malaysia', 'Cambodia']|
+ar6/test/wg2/chapter-10#10.5.4.2_p3,['India']
+ar6/test/wg2/chapter-10#10.5.5.2_p6,['India']
+ar6/test/wg2/chapter-10#10.5.6.2_p2,['India']
+ar6/test/wg2/chapter-10#10.6.3.2_p1,['India']
+ar6/test/wg2/chapter-6#box-6.1_p5,|['India', 'Bangladesh']|
+ar6/test/wg2/chapter-6#6.2.2.1_p2,['India']
+ar6/test/wg2/chapter-6#6.2.3.2_p1,|['India', 'Uganda', 'Mexico', 'Tanzania']|
+ar6/test/wg2/chapter-6#6.2.3.3_p6,|['India', 'Colombia', 'Vietnam', 'Pakistan', 'Guinea', 'Papua New Guinea']|
+ar6/test/wg2/chapter-6#6.2.5_p1,['India']
+ar6/test/wg2/chapter-6#6.3.4.4_p2,['India']
+ar6/test/wg2/chapter-6#6.4.1.1_p1,|['India', 'Ethiopia']|
+ar6/test/wg2/chapter-6#box-6.5_p1,['India']
+ar6/test/wg2/chapter-6#6.4.3.5_p2,['India']
+ar6/test/wg2/chapter-6#box-6.6_p1,|['India', 'Kenya']|
+ar6/test/wg2/chapter-4#4.2.5_p2,|['India', 'Uganda', 'South Africa']|
+ar6/test/wg2/chapter-4#4.2.6_p2,|['India', 'Bangladesh', 'Pakistan', 'Tunisia']|
+ar6/test/wg2/chapter-4#4.3.4_p5,['India']
+ar6/test/wg2/chapter-4#4.5.1_p5,|['India', 'Mali']|
+ar6/test/wg2/chapter-4#4.7.6_p3,['India']
+ar6/test/wg2/chapter-15#15.3.3.1.3_p5,|['India', 'Honduras']|
+ar6/test/wg2/chapter-2#2.6.5.9_p3,['India']
+ar6/test/wg2/chapter-5#5.4.1.4_p4,['India']
+ar6/test/wg2/chapter-5#box-5.4:-soil-health_p5,['India']
+ar6/test/wg2/chapter-5#5.8.2.1_p3,|['India', 'Bangladesh', 'Ghana']|
+ar6/test/wg2/chapter-5#5.12.2_p2,['India']
+ar6/test/wg2/chapter-5#box-5.12:-is-climate-smart-agriculture-overlooking-gender-and-power-relations?_p3,['India']
+ar6/test/wg3/chapter-7#7.3.1.3_p2,|['India', 'Myanmar']|
+ar6/test/wg3/chapter-7#box-7.6_p4,['India']
+ar6/test/wg3/chapter-7#box-7.6_p5,['India']
+ar6/test/wg3/chapter-16#executive-summary_p4,['India']
+ar6/test/wg3/chapter-16#16.4.4.4_p11,['India']
+ar6/test/wg3/chapter-16#16.4.7_p3,['India']
+ar6/test/wg3/chapter-16#16.5.2.1_p3,|['India', 'Kenya']|
+ar6/test/wg3/chapter-9#9.8.4.2_p1,['India']
+ar6/test/wg3/chapter-9#9.8.4.2_p2,['India']
+ar6/test/wg3/chapter-11#11.6.2_p2,['India']
+ar6/test/wg3/chapter-8#8.1.5_p4,['India']
+ar6/test/wg3/chapter-10#10.7.2_p4,['India']
+ar6/test/wg3/chapter-17#17.3.2.3_p24,['India']
+ar6/test/wg3/chapter-17#17.3.3.2_p1,|['India', 'South Africa']|
+ar6/test/wg3/chapter-17#17.3.3.2_p21,['India']
+ar6/test/wg3/chapter-17#17.4.1.2_p3,['India']
+ar6/test/wg3/chapter-6#6.3_p15,['India']
+ar6/test/wg3/chapter-6#box-6.1_p2,|['India', 'Kenya', 'Bangladesh']|
+ar6/test/wg3/chapter-6#box-6.3_p4,['India']
+ar6/test/wg3/chapter-6#6.7.7_p8,['India']
+ar6/test/wg3/chapter-4#4.2.5.4_p3,['India']
+ar6/test/wg3/chapter-4#4.2.5.6_p1,['India']
+ar6/test/wg3/chapter-4#box-4.4_p1,['India']
+ar6/test/wg3/chapter-4#4.3.2.3_p5,['India']
+ar6/test/wg3/chapter-4#4.3.2.4_p1,|['India', 'South Africa']|
+ar6/test/wg3/chapter-4#box-4.5_p6,|['India', 'South Africa']|
+ar6/test/wg3/chapter-12#12.5.3_p10,['India']
+ar6/test/wg3/chapter-14#14.5.2.2_p5,|['India', 'Morocco']|
+ar6/test/wg3/chapter-5#5.4.2_p2,['India']
+ar6/test/wg3/chapter-5#5.4.2_p13,['India']
+ar6/test/wg3/chapter-5#box-5.8_p1,['India']
+ar6/test/wg3/chapter-5#5.4.5_p1,|['India', 'South Africa']|
+ar6/test/wg3/chapter-5#5.6.4_p5,['India']
+ar6/test/wg2/chapter-7#box-7.1_p10,['Uganda']
+ar6/test/wg2/chapter-7#box-7.1_p11,['Uganda']
+ar6/test/wg2/chapter-7#box-7.1_p32,['Uganda']
+ar6/test/wg2/chapter-7#box-7.1_p33,['Uganda']
+ar6/test/wg2/chapter-7#7.4.5.1_p1,|['Uganda', 'Kenya']|
+ar6/test/wg2/chapter-9#9.4.1.1_p1,['Uganda']
+ar6/test/wg2/chapter-9#9.4.4.1_p3,|['Uganda', 'Kenya', 'South Africa', 'Ghana', 'Zimbabwe', 'Nigeria', 'Benin']|
+ar6/test/wg2/chapter-9#9.6.2.6_p1,|['Uganda', 'Kenya', 'South Africa']|
+ar6/test/wg2/chapter-9#9.8.2.2_p4,|['Uganda', 'Kenya', 'Morocco', 'Algeria']|
+ar6/test/wg2/chapter-9#9.8.3_p5,|['Uganda', 'Ethiopia', 'Tanzania', 'Rwanda']|
+ar6/test/wg2/chapter-9#9.10.2.1.1_p7,|['Uganda', 'Zambia', 'Tanzania', 'Angola']|
+ar6/test/wg2/chapter-9#9.10.3.3_p1,|['Uganda', 'Kenya', 'Zambia']|
+ar6/test/wg2/chapter-9#9.11.1.2_p2,|['Uganda', 'Ethiopia', 'Malawi', 'Zimbabwe', 'Cameroon']|
+ar6/test/wg2/chapter-9#9.11.4_p8,|['Uganda', 'Kenya', 'South Africa', 'Ethiopia']|
+ar6/test/wg2/chapter-9#box-9.8_p13,|['Uganda', 'Kenya', 'Ethiopia', 'Tanzania']|
+ar6/test/wg2/chapter-5#5.5.4.1_p1,|['Uganda', 'Ethiopia']|
+ar6/test/wg3/chapter-10#10.8.1_p8,|['Uganda', 'Rwanda']|
+ar6/test/wg3/chapter-17#17.3.2.3_p19,|['Uganda', 'South Africa']|
+ar6/test/wg3/chapter-17#17.4.1.2_p5,|['Uganda', 'Nepal']|
+ar6/test/wg2/chapter-7#7.3.2.1_p6,|['Indonesia', 'Philippines', 'Malaysia']|
+ar6/test/wg2/chapter-8#8.4.4_p6,['Indonesia']
+ar6/test/wg2/chapter-8#8.4.5.6_p1,['Indonesia']
+ar6/test/wg2/chapter-8#box-8.7_p5,|['Indonesia', 'Mexico']|
+ar6/test/wg2/chapter-8#8.6.2.3_p1,|['Indonesia', 'Ukraine']|
+ar6/test/wg2/chapter-8#box-8.9_p2,['Indonesia']
+ar6/test/wg2/chapter-10#10.3.1_p1,['Indonesia']
+ar6/test/wg2/chapter-10#10.3.2_p5,|['Indonesia', 'Philippines']|
+ar6/test/wg2/chapter-10#10.4.3_p6,|['Indonesia', 'Philippines']|
+ar6/test/wg2/chapter-10#10.4.3_p13,|['Indonesia', 'Philippines', 'Myanmar', 'Malaysia', 'Cambodia']|
+ar6/test/wg2/chapter-10#10.4.3_p16,|['Indonesia', 'Philippines']|
+ar6/test/wg2/chapter-10#10.4.3_p19,|['Indonesia', 'Vietnam']|
+ar6/test/wg2/chapter-10#10.4.5.1_p1,|['Indonesia', 'Philippines', 'Pakistan']|
+ar6/test/wg2/chapter-10#10.5.1.2_p15,|['Indonesia', 'Bangladesh']|
+ar6/test/wg2/chapter-6#6.3.3.3_p4,|['Indonesia', 'Philippines', 'Ghana']|
+ar6/test/wg2/chapter-4#4.5.4_p3,|['Indonesia', 'Tanzania']|
+ar6/test/wg2/chapter-3#3.6.3.1.3_p3,|['Indonesia', 'Mexico']|
+ar6/test/wg2/chapter-15#15.5.2_p1,|['Indonesia', 'Philippines']|
+ar6/test/wg2/chapter-2#2.4.3.8_p2,['Indonesia']
+ar6/test/wg2/chapter-2#2.4.4.2.3_p7,['Indonesia']
+ar6/test/wg2/chapter-2#2.4.4.4.2_p3,['Indonesia']
+ar6/test/wg2/chapter-2#2.4.4.4.4_p4,|['Indonesia', 'Malaysia']|
+ar6/test/wg2/chapter-2#2.6.5.10_p3,|['Indonesia', 'Malaysia']|
+ar6/test/wg2/chapter-2#2.6.5.10_p4,['Indonesia']
+ar6/test/wg2/chapter-2#2.6.6_p4,['Indonesia']
+ar6/test/wg2/chapter-5#5.8_p1,|['Indonesia', 'Bangladesh', 'Ghana', 'Sierra Leone', 'Sri Lanka', 'Cambodia']|
+ar6/test/wg2/chapter-5#5.9.2_p3,|['Indonesia', 'Bangladesh']|
+ar6/test/wg3/chapter-7#7.4.2.6_p2,|['Indonesia', 'Malaysia']|
+ar6/test/wg3/chapter-7#7.4.2.6_p3,['Indonesia']
+ar6/test/wg3/chapter-16#16.5.2.1_p1,|['Indonesia', 'Vietnam']|
+ar6/test/wg3/chapter-17#17.3.3.1_p10,['Indonesia']
+ar6/test/wg3/chapter-6#box-6.3_p3,['Indonesia']
+ar6/test/wg3/chapter-4#4.2.6.4_p2,['Indonesia']
+ar6/test/wg3/chapter-4#4.3.2.2_p4,|['Indonesia', 'Nepal']|
+ar6/test/wg3/chapter-4#cross-chapter-box-5_p27,['Indonesia']
+ar6/test/wg2/chapter-18#box-18.2_p1,['Kenya']
+ar6/test/wg2/chapter-18#box-18.2_p3,['Kenya']
+ar6/test/wg2/chapter-18#box-18.2_p5,['Kenya']
+ar6/test/wg2/chapter-7#7.2.2.1 _p8,['Kenya']
+ar6/test/wg2/chapter-7#7.2.2.3_p5,|['Kenya', 'Ghana', 'Zambia', 'Tanzania', 'Guinea']|
+ar6/test/wg2/chapter-7#7.2.7.3_p1,['Kenya']
+ar6/test/wg2/chapter-9#9.1.5_p1,|['Kenya', 'South Africa']|
+ar6/test/wg2/chapter-9#9.1.5_p2,|['Kenya', 'South Africa']|
+ar6/test/wg2/chapter-9#9.1.5_p4,|['Kenya', 'South Africa', 'Ethiopia', 'Ghana', 'Tanzania']|
+ar6/test/wg2/chapter-9#9.3.1_p4,|['Kenya', 'Ethiopia', 'Ghana', 'Tanzania']|
+ar6/test/wg2/chapter-9#9.3.2_p3,|['Kenya', 'Tanzania']|
+ar6/test/wg2/chapter-9#box-9.1_p3,|['Kenya', 'South Africa', 'Ghana', 'Burkina Faso']|
+ar6/test/wg2/chapter-9#9.5.8_p1,['Kenya']
+ar6/test/wg2/chapter-9#9.5.8_p2,['Kenya']
+ar6/test/wg2/chapter-9#9.6.4.1_p1,|['Kenya', 'Zimbabwe']|
+ar6/test/wg2/chapter-9#9.7.1_p3,|['Kenya', 'Chad']|
+ar6/test/wg2/chapter-9#9.7.2.1_p4,['Kenya']
+ar6/test/wg2/chapter-9#9.8.3_p3,|['Kenya', 'Tanzania']|
+ar6/test/wg2/chapter-9#9.8.4_p3,|['Kenya', 'Ethiopia', 'Ghana', 'Malawi', 'Tanzania', 'Rwanda']|
+ar6/test/wg2/chapter-9#9.9.2.1_p6,|['Kenya', 'South Africa', 'Ghana', 'Tanzania', 'Zimbabwe', 'Nigeria']|
+ar6/test/wg2/chapter-9#9.9.5.3_p4,|['Kenya', 'Ethiopia', 'Burkina Faso', 'Cameroon']|
+ar6/test/wg2/chapter-9#9.10.2.3.1_p2,|['Kenya', 'South Africa', 'Ghana', 'Tanzania', 'Burkina Faso', 'Tunisia']|
+ar6/test/wg2/chapter-9#9.12.3_p6,['Kenya']
+ar6/test/wg2/chapter-8#8.3.4.1_p1,|['Kenya', 'Ghana']|
+ar6/test/wg2/chapter-8#8.3.4.2_p5,|['Kenya', 'Ethiopia', 'Mozambique', 'Zimbabwe']|
+ar6/test/wg2/chapter-6#6.3.6.2_p4,['Kenya']
+ar6/test/wg2/chapter-4#4.3.6_p2,|['Kenya', 'Yemen', 'Syria', 'Iraq', 'Democratic Republic of the Congo']|
+ar6/test/wg2/chapter-5#5.11.4_p2,['Kenya']
+ar6/test/wg3/chapter-17#17.3.3.5_p6,['Kenya']
+ar6/test/wg3/chapter-6#6.4.2.8_p2,['Kenya']
+ar6/test/wg3/chapter-4#4.4.3.1_p1,|['Kenya', 'Ghana']|
+ar6/test/wg3/chapter-13#13.2.1_p6,|['Kenya', 'Mexico']|
+ar6/test/wg1/chapter-4#4.5.1.3_p4,['South Africa']
+ar6/test/wg1/chapter-2#2.3.3.3_p7,['South Africa']
+ar6/test/wg2/chapter-9#9.4.3_p10,|['South Africa', 'Angola']|
+ar6/test/wg2/chapter-9#9.4.4.1_p5,|['South Africa', 'Madagascar', 'Ghana', 'Malawi', 'Mozambique', 'Tanzania', 'Burkina Faso', 'Rwanda', 'Algeria']|
+ar6/test/wg2/chapter-9#9.5.6.2.1_p1,|['South Africa', 'Angola']|
+ar6/test/wg2/chapter-9#box-9.2_p4,['South Africa']
+ar6/test/wg2/chapter-9#9.6.1.1_p5,['South Africa']
+ar6/test/wg2/chapter-9#9.6.1.4_p2,|['South Africa', 'Mozambique']|
+ar6/test/wg2/chapter-9#9.6.3_p2,['South Africa']
+ar6/test/wg2/chapter-9#9.8.2.4_p1,['South Africa']
+ar6/test/wg2/chapter-9#9.8.5.2_p1,|['South Africa', 'Madagascar', 'Mozambique', 'Tanzania', 'Sierra Leone']|
+ar6/test/wg2/chapter-9#9.9.5.1_p8,['South Africa']
+ar6/test/wg2/chapter-9#9.9.5.3_p3,|['South Africa', 'Ethiopia', 'Burkina Faso']|
+ar6/test/wg2/chapter-9#9.10.2.3.1_p4,['South Africa']
+ar6/test/wg2/chapter-9#9.10.2.6.1_p1,['South Africa']
+ar6/test/wg2/chapter-9#9.10.2.7_p2,['South Africa']
+ar6/test/wg2/chapter-9#9.11.1.1_p3,['South Africa']
+ar6/test/wg2/chapter-9#9.11.3_p1,|['South Africa', 'Nigeria', 'Burkina Faso']|
+ar6/test/wg2/chapter-9#9.11.4_p5,['South Africa']
+ar6/test/wg2/chapter-9#9.11.4.1_p1,['South Africa']
+ar6/test/wg2/chapter-9#9.12.1_p2,['South Africa']
+ar6/test/wg2/chapter-9#box-9.9_p4,['South Africa']
+ar6/test/wg2/chapter-11#11.3.3.3_p5,['South Africa']
+ar6/test/wg2/chapter-8#8.3.2.1_p17,['South Africa']
+ar6/test/wg2/chapter-8#8.3.4_p1,['South Africa']
+ar6/test/wg2/chapter-8#box-8.5_p4,['South Africa']
+ar6/test/wg2/chapter-8#8.6.1.2.4_p5,['South Africa']
+ar6/test/wg2/chapter-6#6.2.2.1_p9,['South Africa']
+ar6/test/wg2/chapter-6#6.3.5.5_p1,|['South Africa', 'Ethiopia', 'Burkina Faso']|
+ar6/test/wg2/chapter-6#6.4.4_p3,['South Africa']
+ar6/test/wg2/chapter-6#box-6.8_p3,|['South Africa', 'Ethiopia', 'Egypt', 'Morocco']|
+ar6/test/wg2/chapter-2#2.4.3.3_p3,['South Africa']
+ar6/test/wg2/chapter-2#2.4.3.4_p1,['South Africa']
+ar6/test/wg2/chapter-2#2.4.3.4_p4,|['South Africa', 'Italy']|
+ar6/test/wg2/chapter-2#2.4.4.2.5_p1,['South Africa']
+ar6/test/wg2/chapter-2#2.4.4.3.2_p2,|['South Africa', 'Algeria', 'Tunisia']|
+ar6/test/wg2/chapter-2#2.6.3_p6,['South Africa']
+ar6/test/wg2/chapter-2#2.6.5_p2,['South Africa']
+ar6/test/wg2/chapter-2#2.6.5_p3,['South Africa']
+ar6/test/wg2/chapter-2#2.6.5.5 _p3,['South Africa']
+ar6/test/wg2/chapter-2#2.6.7_p7,|['South Africa', 'Cambodia']|
+ar6/test/wg2/chapter-5#5.9.4.4_p1,['South Africa']
+ar6/test/wg2/chapter-5#5.10.2.1_p1,['South Africa']
+ar6/test/wg2/chapter-5#5.12.3.1_p1,['South Africa']
+ar6/test/wg2/chapter-5#5.12.7_p3,['South Africa']
+ar6/test/wg3/chapter-17#17.3.2.1_p16,|['South Africa', 'Afghanistan', 'Pakistan']|
+ar6/test/wg3/chapter-17#17.3.2.3_p39,['South Africa']
+ar6/test/wg3/chapter-17#17.3.3.2_p22,['South Africa']
+ar6/test/wg3/chapter-17#17.3.3.2_p23,['South Africa']
+ar6/test/wg3/chapter-17#17.3.3.3_p5,['South Africa']
+ar6/test/wg3/chapter-6#box-6.2_p7,|['South Africa', 'Zimbabwe']|
+ar6/test/wg3/chapter-6#box-6.6_p1,['South Africa']
+ar6/test/wg3/chapter-4#box-4.3_p2,['South Africa']
+ar6/test/wg3/chapter-4#box-4.5_p1,['South Africa']
+ar6/test/wg3/chapter-4#box-4.6_p28,['South Africa']
+ar6/test/wg3/chapter-13#13.2.3.2_p10,['South Africa']
+ar6/test/wg3/chapter-13#13.6.4.3_p4,['South Africa']
+ar6/test/wg3/chapter-2#2.3.3_p9,|['South Africa', 'Nepal']|
+ar6/test/wg1/chapter-4#4.4.1.4_p3,|['Mexico', 'Philippines']|
+ar6/test/wg1/chapter-2#2.3.3.6_p5,['Mexico']
+ar6/test/wg1/chapter-5#5.3.5.2_p4,['Mexico']
+ar6/test/wg2/chapter-9#9.11.1.2_p3,['Mexico']
+ar6/test/wg2/chapter-6#6.2.3.3_p2,|['Mexico', 'Colombia', 'Pakistan']|
+ar6/test/wg2/chapter-3#3.5.6_p3,['Mexico']
+ar6/test/wg2/chapter-12#12.1.1_p3,['Mexico']
+ar6/test/wg2/chapter-12#12.3.1.4_p10,|['Mexico', 'Guatemala']|
+ar6/test/wg2/chapter-12#12.5.1.1_p3,['Mexico']
+ar6/test/wg2/chapter-12#12.5.7_p2,['Mexico']
+ar6/test/wg2/chapter-12#FAQ 12.1_p2,['Mexico']
+ar6/test/wg2/chapter-14#14.2.2_p4,['Mexico']
+ar6/test/wg2/chapter-14#14.5.2.1_p4,['Mexico']
+ar6/test/wg2/chapter-14#14.5.2.1_p5,['Mexico']
+ar6/test/wg2/chapter-14#14.5.2.1_p7,['Mexico']
+ar6/test/wg2/chapter-14#14.5.2.1_p9,['Mexico']
+ar6/test/wg2/chapter-14#box-14.2_p3,['Mexico']
+ar6/test/wg2/chapter-14#box-14.3_p1,['Mexico']
+ar6/test/wg2/chapter-14#14.5.3.1_p4,['Mexico']
+ar6/test/wg2/chapter-14#14.5.3.3_p3,['Mexico']
+ar6/test/wg2/chapter-14#14.5.3.3_p5,['Mexico']
+ar6/test/wg2/chapter-14#14.5.4.1_p5,['Mexico']
+ar6/test/wg2/chapter-14#14.5.4.4_p1,['Mexico']
+ar6/test/wg2/chapter-14#14.5.5.1.1_p1,['Mexico']
+ar6/test/wg2/chapter-14#14.5.5.2.1_p1,['Mexico']
+ar6/test/wg2/chapter-14#14.5.5.2.3_p3,['Mexico']
+ar6/test/wg2/chapter-14#14.5.6.4 _p4,['Mexico']
+ar6/test/wg2/chapter-14#14.5.6.8_p4,['Mexico']
+ar6/test/wg2/chapter-14#14.5.7.1.2_p1,['Mexico']
+ar6/test/wg2/chapter-14#14.5.7.2_p3,['Mexico']
+ar6/test/wg2/chapter-14#14.5.9.2_p1,['Mexico']
+ar6/test/wg2/chapter-14#14.5.9.3_p1,['Mexico']
+ar6/test/wg2/chapter-14#box-14.6_p9,['Mexico']
+ar6/test/wg2/chapter-14#14.5.10_p1,['Mexico']
+ar6/test/wg2/chapter-14#14.6.3_p1,['Mexico']
+ar6/test/wg2/chapter-14#14.7.1.2_p4,['Mexico']
+ar6/test/wg2/chapter-14#14.7.1.3_p3,['Mexico']
+ar6/test/wg3/chapter-8#8.2.2_p2,['Mexico']
+ar6/test/wg3/chapter-5#5.4.2_p5,['Mexico']
+ar6/test/wg1/chapter-4#4.4.4_p10,['Philippines']
+ar6/test/wg2/chapter-7#7.2.2.2_p6,['Philippines']
+ar6/test/wg2/chapter-8#8.3.4.2_p6,|['Philippines', 'Bangladesh', 'Vietnam', 'Nepal']|
+ar6/test/wg2/chapter-8#8.3.5.1_p3,|['Philippines', 'Vietnam', 'Pakistan']|
+ar6/test/wg2/chapter-8#8.4.2_p1,['Philippines']
+ar6/test/wg2/chapter-10#10.4.3_p15,['Philippines']
+ar6/test/wg2/chapter-10#10.4.3.3_p6,['Philippines']
+ar6/test/wg2/chapter-10#10.4.5.1_p3,['Philippines']
+ar6/test/wg2/chapter-10#10.4.5.2.3_p1,['Philippines']
+ar6/test/wg2/chapter-10#10.4.5.4_p1,|['Philippines', 'Bangladesh', 'Vietnam']|
+ar6/test/wg2/chapter-10#10.4.6.3.8_p2,|['Philippines', 'Bangladesh', 'Vietnam', 'Cambodia']|
+ar6/test/wg2/chapter-10#10.5.1.2_p9,|['Philippines', 'Pakistan']|
+ar6/test/wg2/chapter-10#10.5.1.3_p6,['Philippines']
+ar6/test/wg2/chapter-10#10.5.6.2_p5,|['Philippines', 'Nepal']|
+ar6/test/wg2/chapter-17#17.2.1.1_p5,|['Philippines', 'Zambia']|
+ar6/test/wg2/chapter-17#box-17.2_p1,|['Philippines', 'Colombia']|
+ar6/test/wg2/chapter-17#box-17.2_p4,|['Philippines', 'Afghanistan', 'Mali']|
+ar6/test/wg2/chapter-6#6.3.3.6_p1,|['Philippines', 'Mali']|
+ar6/test/wg2/chapter-4#4.8.4_p5,|['Philippines', 'Ethiopia', 'Bangladesh', 'Burkina Faso']|
+ar6/test/wg2/chapter-15#15.3.3.3_p5,['Philippines']
+ar6/test/wg2/chapter-15#15.3.4.2_p6,|['Philippines', 'Guinea', 'Papua New Guinea']|
+ar6/test/wg3/chapter-9#9.5.3.4_p2,|['Philippines', 'Cuba']|
+ar6/test/wg2/chapter-18#18.3.2_p4,['Italy']
+ar6/test/wg2/chapter-13#13.7.1.5._p1,['Italy']
+ar6/test/wg2/chapter-13#13.7.1.7._p1,['Italy']
+ar6/test/wg2/chapter-13#box-13.3_p2,|['Italy', 'Sweden']|
+ar6/test/wg2/chapter-18#box-18.7_p9,['Sweden']
+ar6/test/wg2/chapter-8#8.2.1.3._p9,['Sweden']
+ar6/test/wg2/chapter-8#8.5.2.1_p12,['Sweden']
+ar6/test/wg2/chapter-6#6.2.4.1_p2,['Sweden']
+ar6/test/wg2/chapter-6#6.4.2.2_p1,|['Sweden', 'Colombia']|
+ar6/test/wg2/chapter-13#13.3.1.3_p1,|['Sweden', 'Portugal']|
+ar6/test/wg2/chapter-13#13.6.2.2_p3,['Sweden']
+ar6/test/wg2/chapter-13#box-13.2_p1,['Sweden']
+ar6/test/wg2/chapter-2#2.5.3.6.1_p5,['Sweden']
+ar6/test/wg3/chapter-7#box-7.8_p5,['Sweden']
+ar6/test/wg3/chapter-11#11.5.1_p10,['Sweden']
+ar6/test/wg3/chapter-6#6.4.5.1_p20,['Sweden']
+ar6/test/wg3/chapter-4#4.4.1.8_p2,['Sweden']
+ar6/test/wg3/chapter-4#4.4.1.8_p10,['Sweden']
+ar6/test/wg3/chapter-13#13.5.2_p2,['Sweden']
+ar6/test/wg2/chapter-9#9.10.2.1.1_p8,|['Ivory Coast', 'Ghana', 'Zambia', 'Niger', 'Zimbabwe', 'Sierra Leone', 'Nigeria', 'Burkina Faso', 'Cameroon']|
+ar6/test/wg2/chapter-6#6.2.2.2_p5,|['South Korea', 'Ghana', 'Sri Lanka']|
+ar6/test/wg2/chapter-6#6.3.3.1_p1,['South Korea']
+ar6/test/wg2/chapter-6#6.4.1.1_p3,['South Korea']
+ar6/test/wg2/chapter-6#box-6.7_p1,['South Korea']
+ar6/test/wg3/chapter-9#9.9.7.1_p4,['South Korea']
+ar6/test/wg3/chapter-17#17.4.4_p8,['South Korea']
+ar6/test/wg3/chapter-3#3.7.5.2_p5,['South Korea']
+ar6/test/wg2/chapter-10#10.4.4.3_p2,|['Myanmar', 'Afghanistan']|
+ar6/test/wg2/chapter-10#10.5.1.2_p8,|['Myanmar', 'Nepal']|
+ar6/test/wg2/chapter-10#10.5.1.2_p11,|['Myanmar', 'Bangladesh']|
+ar6/test/wg2/chapter-10#10.5.5.3_p2,['Myanmar']
+ar6/test/wg2/chapter-10#10.6.4_p7,['Myanmar']
+ar6/test/wg2/chapter-6#box-6.6_p2,['Myanmar']
+ar6/test/wg2/chapter-5#5.4.1.1_p8,|['Myanmar', 'Pakistan']|
+ar6/test/wg2/chapter-10#10.3.1.1_p4,['Iran']
+ar6/test/wg2/chapter-10#10.4.2.1.2_p5,['Iran']
+ar6/test/wg2/chapter-10#box-10.3_p1,['Iran']
+ar6/test/wg2/chapter-10#10.4.3.3_p4,|['Iran', 'Saudi Arabia', 'United Arab Emirates']|
+ar6/test/wg2/chapter-6#6.3.3.3_p3,['Iran']
+ar6/test/wg2/chapter-9#9.6.2.3_p1,['Portugal']
+ar6/test/wg2/chapter-6#6.3.6.1_p4,['Portugal']
+ar6/test/wg2/chapter-6#FAQ 6.4_p5,['Portugal']
+ar6/test/wg2/chapter-12#12.5.5.3.2_p2,['Portugal']
+ar6/test/wg2/chapter-13#13.3.1.3_p4,['Portugal']
+ar6/test/wg2/chapter-13#13.7.1.2_p1,['Portugal']
+ar6/test/wg3/chapter-6#6.7.3.2_p6,['Portugal']
+ar6/test/wg3/chapter-4#4.2.5.1_p2,['Portugal']
+ar6/test/wg2/chapter-7#7.2.2.1 _p3,|['Colombia', 'Ethiopia']|
+ar6/test/wg2/chapter-6#box-6.1_p4,['Colombia']
+ar6/test/wg2/chapter-6#box-6.1_p6,['Colombia']
+ar6/test/wg2/chapter-6#6.2.3.3_p5,|['Colombia', 'Guinea', 'Papua New Guinea']|
+ar6/test/wg2/chapter-12#12.3.2.1_p4,['Colombia']
+ar6/test/wg2/chapter-12#12.5.2.1_p3,['Colombia']
+ar6/test/wg2/chapter-12#12.7.1_p1,['Colombia']
+ar6/test/wg3/chapter-7#7.6.2.1_p3,['Colombia']
+ar6/test/wg3/chapter-4#box-4.3_p6,['Colombia']
+ar6/test/wg3/chapter-4#box-4.6_p9,['Colombia']
+ar6/test/wg2/chapter-9#9.5.10_p2,['Madagascar']
+ar6/test/wg2/chapter-9#9.6.4.3_p1,|['Madagascar', 'Mozambique', 'Sierra Leone', 'Guinea', 'Somalia']|
+ar6/test/wg2/chapter-4#4.3.5_p3,['Madagascar']
+ar6/test/wg2/chapter-15#15.3.3.3_p3,['Madagascar']
+ar6/test/wg2/chapter-15#15.5.6_p1,|['Madagascar', 'Dominican Republic']|
+ar6/test/wg2/chapter-18#18.2.5.1.1_p5,|['Jordan', 'Bangladesh']|
+ar6/test/wg2/chapter-7#box-7.1_p5,['Jordan']
+ar6/test/wg2/chapter-8#8.4.4_p5,['Jordan']
+ar6/test/wg2/chapter-10#10.4.1.1_p7,|['Jordan', 'Syria']|
+ar6/test/wg2/chapter-10#10.4.1.3_p6,|['Jordan', 'Syria', 'Iraq', 'United Arab Emirates']|
+ar6/test/wg2/chapter-6#6.1.5_p10,['Jordan']
+ar6/test/wg2/chapter-6#6.4_p3,['Jordan']
+ar6/test/wg2/chapter-6#6.4.3.6_p1,['Jordan']
+ar6/test/wg3/chapter-17#17.1.3_p2,['Jordan']
+ar6/test/wg3/chapter-1#1.9_p1,['Jordan']
+ar6/test/wg3/chapter-1#1.9_p3,['Jordan']
+ar6/test/wg3/chapter-1#1.9_p4,['Jordan']
+ar6/test/wg3/chapter-14#14.2.3_p2,['Jordan']
+ar6/test/wg3/chapter-14#14.3.3.2_p8,['Jordan']
+ar6/test/wg3/chapter-14#14.4_p1,['Jordan']
+ar6/test/wg3/chapter-14#14.5_p1,['Jordan']
+ar6/test/wg3/chapter-14#14.5.5_p2,['Jordan']
+ar6/test/wg3/chapter-14#Le Quéré C--2019,['Jordan']
+ar6/test/wg3/chapter-13#13.2.4.1_p1,['Jordan']
+ar6/test/wg3/chapter-13#13.4_p1,['Jordan']
+ar6/test/wg3/chapter-13#13.4_p2,['Jordan']
+ar6/test/wg3/chapter-13#13.8_p1,['Jordan']
+ar6/test/wg3/chapter-13#13.9.7_p11,['Jordan']
+ar6/test/wg2/chapter-18#18.4.2.1_p1,|['Ethiopia', 'Vietnam']|
+ar6/test/wg2/chapter-7#7.4.2.6_p6,['Ethiopia']
+ar6/test/wg2/chapter-9#box-9.1_p4,|['Ethiopia', 'Nigeria']|
+ar6/test/wg2/chapter-9#9.8.2.2_p2,|['Ethiopia', 'Nigeria']|
+ar6/test/wg2/chapter-9#9.10.3.2_p1,|['Ethiopia', 'Ghana', 'Burkina Faso']|
+ar6/test/wg2/chapter-9#9.11.2_p3,|['Ethiopia', 'Malawi', 'Mozambique', 'Somalia']|
+ar6/test/wg2/chapter-8#8.5.2.4.1_p3,['Ethiopia']
+ar6/test/wg3/chapter-17#17.3.3.3_p4,['Ethiopia']
+ar6/test/wg3/chapter-17#17.3.3.3_p9,['Ethiopia']
+ar6/test/wg2/chapter-18#18.2.2.2._p2,['Afghanistan']
+ar6/test/wg2/chapter-8#8.3.2.5_p3,|['Afghanistan', 'Haiti']|
+ar6/test/wg2/chapter-8#8.4.5.2_p5,|['Afghanistan', 'Haiti']|
+ar6/test/wg2/chapter-18#18.2.5.3.1_p4,['Bangladesh']
+ar6/test/wg2/chapter-18#18.4.3.3_p5,['Bangladesh']
+ar6/test/wg2/chapter-7#7.2.6.1_p3,['Bangladesh']
+ar6/test/wg2/chapter-7#7.3.3_p5,|['Bangladesh', 'Nepal']|
+ar6/test/wg2/chapter-7#7.4.4.4_p2,['Bangladesh']
+ar6/test/wg2/chapter-8#8.2.2.1 _p6,|['Bangladesh', 'Tanzania']|
+ar6/test/wg2/chapter-8#8.3.4.2_p7,['Bangladesh']
+ar6/test/wg2/chapter-8#8.3.4.2_p8,['Bangladesh']
+ar6/test/wg2/chapter-8#8.4.5.4_p4,|['Bangladesh', 'Tanzania']|
+ar6/test/wg2/chapter-8#8.4.5.5_p3,|['Bangladesh', 'Burkina Faso']|
+ar6/test/wg2/chapter-8#8.5.2.4_p2,['Bangladesh']
+ar6/test/wg2/chapter-8#box-8.8_p1,['Bangladesh']
+ar6/test/wg2/chapter-10#10.3.3_p2,['Bangladesh']
+ar6/test/wg2/chapter-10#box-10.2_p4,['Bangladesh']
+ar6/test/wg2/chapter-10#10.4.5.2.1_p3,|['Bangladesh', 'Vietnam']|
+ar6/test/wg2/chapter-10#10.4.5.5_p4,['Bangladesh']
+ar6/test/wg2/chapter-10#10.4.6.3.4_p2,['Bangladesh']
+ar6/test/wg2/chapter-10#10.4.7.1_p5,['Bangladesh']
+ar6/test/wg2/chapter-10#10.4.7.2_p7,['Bangladesh']
+ar6/test/wg2/chapter-10#10.5.1.3_p7,|['Bangladesh', 'Pakistan']|
+ar6/test/wg2/chapter-10#box-10.5_p1,['Bangladesh']
+ar6/test/wg2/chapter-10#box-10.5_p2,['Bangladesh']
+ar6/test/wg2/chapter-10#box-10.5_p3,['Bangladesh']
+ar6/test/wg2/chapter-10#10.5.4.2_p8,['Bangladesh']
+ar6/test/wg2/chapter-10#10.5.6.2_p4,['Bangladesh']
+ar6/test/wg2/chapter-6#6.2.3.3_p4,['Bangladesh']
+ar6/test/wg2/chapter-6#6.4.1.1_p2,['Bangladesh']
+ar6/test/wg2/chapter-6#6.4.5.2_p1,['Bangladesh']
+ar6/test/wg2/chapter-4#4.2.6_p6,['Bangladesh']
+ar6/test/wg2/chapter-4#4.3.1_p4,['Bangladesh']
+ar6/test/wg2/chapter-4#4.4.6_p7,['Bangladesh']
+ar6/test/wg2/chapter-4#box-4.4_p3,['Bangladesh']
+ar6/test/wg2/chapter-15#15.3.4.5_p5,['Bangladesh']
+ar6/test/wg2/chapter-5#5.9.3.2.4_p1,|['Bangladesh', 'Zambia', 'Mozambique']|
+ar6/test/wg2/chapter-5#5.12.7_p1,['Bangladesh']
+ar6/test/wg2/chapter-3#3.5.6_p2,['Honduras']
+ar6/test/wg2/chapter-12#12.3.1.2_p1,['Honduras']
+ar6/test/wg2/chapter-12#12.3.1.3_p2,|['Honduras', 'Guatemala']|
+ar6/test/wg2/chapter-12#12.3.1.4_p1,|['Honduras', 'Guatemala']|
+ar6/test/wg2/chapter-12#12.3.1.4_p4,['Honduras']
+ar6/test/wg2/chapter-12#12.3.1.4_p8,|['Honduras', 'Guatemala']|
+ar6/test/wg2/chapter-12#12.5.1.3_p3,|['Honduras', 'Guatemala']|
+ar6/test/wg2/chapter-12#12.5.7.1_p7,['Honduras']
+ar6/test/wg2/chapter-8#8.5.2.1_p3,['Vietnam']
+ar6/test/wg2/chapter-10#10.4.4.3_p1,['Vietnam']
+ar6/test/wg2/chapter-10#10.4.4.4_p2,['Vietnam']
+ar6/test/wg2/chapter-10#10.5.1.2_p5,['Vietnam']
+ar6/test/wg2/chapter-10#10.5.6.2_p6,|['Vietnam', 'Nepal']|
+ar6/test/wg3/chapter-7#7.4.3.5_p4,['Vietnam']
+ar6/test/wg2/chapter-12#12.3.4.1_p2,['Bolivia']
+ar6/test/wg2/chapter-12#12.5.8.1_p6,['Bolivia']
+ar6/test/wg2/chapter-12#12.5.8.4_p7,['Bolivia']
+ar6/test/wg2/chapter-5#5.4.2.2_p1,['Bolivia']
+ar6/test/wg2/chapter-18#18.4.3.3_p3,['Poland']
+ar6/test/wg2/chapter-7#7.3.1.11_p1,['Poland']
+ar6/test/wg3/chapter-9#9.9.4_p2,['Poland']
+ar6/test/wg3/chapter-4#4.5_p6,['Poland']
+ar6/test/wg2/chapter-10#10.4.7.1_p2,['Malaysia']
+ar6/test/wg2/chapter-6#6.3.5.7_p5,['Malaysia']
+ar6/test/wg2/chapter-9#9.3.2_p2,|['Ghana', 'Burkina Faso']|
+ar6/test/wg2/chapter-9#9.8.2.1_p1,|['Ghana', 'Zimbabwe']|
+ar6/test/wg2/chapter-9#9.8.3_p1,['Ghana']
+ar6/test/wg2/chapter-9#9.9.4.1.1_p2,|['Ghana', 'Mozambique']|
+ar6/test/wg2/chapter-9#9.12.1.1_p1,|['Ghana', 'Burkina Faso', 'Mali']|
+ar6/test/wg2/chapter-8#8.2.2.2_p3,['Ghana']
+ar6/test/wg2/chapter-8#8.3.5.1_p4,|['Ghana', 'Zimbabwe']|
+ar6/test/wg2/chapter-8#8.4.5.1.1_p1,|['Ghana', 'Tanzania', 'Chad']|
+ar6/test/wg2/chapter-6#FAQ 6.2_p5,['Ghana']
+ar6/test/wg2/chapter-5#5.10.3_p5,|['Ghana', 'Nigeria', 'Cameroon']|
+ar6/test/wg3/chapter-7#7.6.5.1_p4,['Ghana']
+ar6/test/wg3/chapter-7#box-7.13_p6,['Ghana']
+ar6/test/wg3/chapter-7#box-7.13_p9,['Ghana']
+ar6/test/wg3/chapter-7#box-7.13_p11,['Ghana']
+ar6/test/wg3/chapter-17#17.3.2.3_p20,['Ghana']
+ar6/test/wg3/chapter-17#17.3.3.3_p6,['Ghana']
+ar6/test/wg3/chapter-13#13.2.1_p3,['Ghana']
+ar6/test/wg2/chapter-10#10.4.4.3_p13,['Pakistan']
+ar6/test/wg2/chapter-10#10.4.5.5_p2,['Pakistan']
+ar6/test/wg2/chapter-10#10.5.1.2_p12,|['Pakistan', 'Sri Lanka']|
+ar6/test/wg2/chapter-17#17.2.2.3_p1,['Pakistan']
+ar6/test/wg2/chapter-17#17.4.5.4.1_p4,['Pakistan']
+ar6/test/wg2/chapter-6#6.2.4.7_p1,['Pakistan']
+ar6/test/wg2/chapter-4#4.8.7_p2,['Pakistan']
+ar6/test/wg2/chapter-9#9.4.2.2_p5,|['Zambia', 'Rwanda']|
+ar6/test/wg2/chapter-9#box-9.5_p1,['Zambia']
+ar6/test/wg2/chapter-9#9.8.2.3_p1,|['Zambia', 'Tanzania', 'Zimbabwe', 'Burkina Faso', 'Mali']|
+ar6/test/wg2/chapter-9#9.9.2.2_p2,|['Zambia', 'Malawi', 'Tanzania', 'Zimbabwe']|
+ar6/test/wg2/chapter-8#8.5.2.1_p10,|['Zambia', 'Burkina Faso', 'Mali']|
+ar6/test/wg2/chapter-4#4.2.7_p4,['Zambia']
+ar6/test/wg3/chapter-17#17.3.3.3_p10,['Zambia']
+ar6/test/wg2/chapter-9#9.4.3_p8,['Niger']
+ar6/test/wg2/chapter-9#9.7.1_p5,|['Niger', 'Mozambique']|
+ar6/test/wg2/chapter-9#9.7.2.1_p2,['Niger']
+ar6/test/wg2/chapter-9#box-9.5_p2,['Niger']
+ar6/test/wg2/chapter-9#9.8.5.2_p3,['Niger']
+ar6/test/wg2/chapter-8#8.4.5.4_p3,|['Niger', 'Chad', 'Somalia', 'Mali']|
+ar6/test/wg3/chapter-7#box-7.10_p2,['Niger']
+ar6/test/wg2/chapter-4#4.7.4_p4,['Guatemala']
+ar6/test/wg2/chapter-12#12.3.1.2_p2,['Guatemala']
+ar6/test/wg2/chapter-12#12.3.1.4_p6,['Guatemala']
+ar6/test/wg2/chapter-12#12.5.8.1_p8,['Guatemala']
+ar6/test/wg2/chapter-12#12.6.4_p1,['Guatemala']
+ar6/test/wg2/chapter-12#12.6.4_p2,['Guatemala']
+ar6/test/wg2/chapter-12#12.6.4_p3,['Guatemala']
+ar6/test/wg2/chapter-12#12.6.4_p4,['Guatemala']
+ar6/test/wg2/chapter-12#12.6.4_p5,['Guatemala']
+ar6/test/wg2/chapter-9#9.9.2.1_p1,|['Malawi', 'Mozambique', 'Zimbabwe']|
+ar6/test/wg2/chapter-9#9.11.4_p7,['Malawi']
+ar6/test/wg2/chapter-8#8.3.5.1_p1,|['Malawi', 'Mozambique', 'Zimbabwe']|
+ar6/test/wg2/chapter-8#8.5.2.1_p16,['Malawi']
+ar6/test/wg2/chapter-2#2.4.2.3.2_p3,['Malawi']
+ar6/test/wg2/chapter-2#2.5.3.6.2_p3,['Malawi']
+ar6/test/wg2/chapter-5#5.11.1_p4,['Malawi']
+ar6/test/wg2/chapter-5#5.11.3_p1,|['Malawi', 'Mozambique']|
+ar6/test/wg2/chapter-9#9.5.7_p1,['Mozambique']
+ar6/test/wg2/chapter-9#9.6.4.3_p2,['Mozambique']
+ar6/test/wg2/chapter-9#9.9.3_p1,['Mozambique']
+ar6/test/wg2/chapter-9#9.9.4.1.2_p4,|['Mozambique', 'Nigeria', 'Egypt']|
+ar6/test/wg2/chapter-9#9.9.4.3_p1,['Mozambique']
+ar6/test/wg2/chapter-9#9.10.2.5.2_p1,|['Mozambique', 'Burkina Faso', 'Angola']|
+ar6/test/wg2/chapter-8#8.2.1.3._p1,['Mozambique']
+ar6/test/wg3/chapter-17#17.3.2.3_p28,['Mozambique']
+ar6/test/wg2/chapter-9#9.4.4.3_p1,['Tanzania']
+ar6/test/wg2/chapter-9#box-9.4_p7,['Tanzania']
+ar6/test/wg2/chapter-9#box-9.4_p8,['Tanzania']
+ar6/test/wg2/chapter-9#box-9.4_p11,['Tanzania']
+ar6/test/wg2/chapter-9#box-9.5_p4,['Tanzania']
+ar6/test/wg2/chapter-8#8.5.2.3_p7,['Tanzania']
+ar6/test/wg2/chapter-5#5.8.1_p2,['Tanzania']
+ar6/test/wg3/chapter-17#17.4.5_p4,['Tanzania']
+ar6/test/wg2/chapter-7#7.3.1.4_p1,['Ecuador']
+ar6/test/wg2/chapter-12#12.6.1_p2,['Ecuador']
+ar6/test/wg2/chapter-2#2.4.3.2.1_p2,['Ecuador']
+ar6/test/wg3/chapter-17#17.3.2.3_p15,['Ecuador']
+ar6/test/wg2/chapter-9#9.5.6.1.1_p1,['Zimbabwe']
+ar6/test/wg2/chapter-9#9.8.2.3_p2,|['Zimbabwe', 'Burkina Faso']|
+ar6/test/wg2/chapter-9#9.8.2.4_p3,['Zimbabwe']
+ar6/test/wg2/chapter-9#9.8.2.4_p5,|['Zimbabwe', 'Nigeria', 'Mali']|
+ar6/test/wg2/chapter-9#9.11.1.1_p1,['Zimbabwe']
+ar6/test/wg2/chapter-9#9.12.3_p8,['Zimbabwe']
+ar6/test/wg2/chapter-5#5.10.3_p1,|['Zimbabwe', 'Burkina Faso']|
+ar6/test/wg3/chapter-10#10.8.1_p9,['Zimbabwe']
+ar6/test/wg2/chapter-10#box-10.2_p5,|['Nepal', 'Tajikistan']|
+ar6/test/wg2/chapter-10#10.4.4.3_p4,|['Nepal', 'Uzbekistan']|
+ar6/test/wg2/chapter-10#10.4.4.4_p4,['Nepal']
+ar6/test/wg2/chapter-10#10.4.4.4_p6,['Nepal']
+ar6/test/wg2/chapter-10#10.4.4.5_p5,['Nepal']
+ar6/test/wg2/chapter-10#10.5.1.2_p14,['Nepal']
+ar6/test/wg2/chapter-10#10.5.6.2_p7,['Nepal']
+ar6/test/wg2/chapter-17#17.5.1.1.3_p4,['Nepal']
+ar6/test/wg2/chapter-4#4.3.1_p5,['Nepal']
+ar6/test/wg2/chapter-4#4.6.3_p4,['Nepal']
+ar6/test/wg2/chapter-4#4.6.9_p5,['Nepal']
+ar6/test/wg2/chapter-2#2.4.2.7.2_p2,['Nepal']
+ar6/test/wg2/chapter-2#FAQ 2.2_p4,['Nepal']
+ar6/test/wg2/chapter-2#2.4.3.6_p2,['Nepal']
+ar6/test/wg3/chapter-13#13.8.3.1_p2,['Hungary']
+ar6/test/wg2/chapter-9#9.4.5.3_p2,['Nigeria']
+ar6/test/wg2/chapter-9#9.9.4.1.4_p1,['Nigeria']
+ar6/test/wg2/chapter-9#9.10.2.2.3_p1,['Nigeria']
+ar6/test/wg2/chapter-9#9.11.4_p6,['Nigeria']
+ar6/test/wg2/chapter-9#9.12.1_p3,|['Nigeria', 'Mali']|
+ar6/test/wg2/chapter-6#6.3.5.1_p2,['Nigeria']
+ar6/test/wg2/chapter-6#6.3.5.2_p4,['Nigeria']
+ar6/test/wg2/chapter-9#9.10.2.1.2_p5,|['Burkina Faso', 'Chad', 'Mali']|
+ar6/test/wg2/chapter-9#9.10.2.5.1_p2,['Burkina Faso']
+ar6/test/wg2/chapter-8#8.5.2.4.1_p1,['Burkina Faso']
+ar6/test/wg2/chapter-5#box-5.7:-perspectives-of-crop-and-livestock-farmers-on-observed-changes-in-climate-in-the-sahel_p3,['Burkina Faso']
+ar6/test/wg2/chapter-10#10.5.4.2_p2,['Sri Lanka']
+ar6/test/wg2/chapter-7#box-7.1_p24,['Israel']
+ar6/test/wg3/chapter-5#5.6.4_p1,['Israel']
+ar6/test/wg2/chapter-8#8.4.5.5_p1,['Cambodia']
+ar6/test/wg2/chapter-17#17.5.2.2_p4,['Cambodia']
+ar6/test/wg2/chapter-7#7.3.2.1_p5,|['Guinea', 'Papua New Guinea']|
+ar6/test/wg2/chapter-9#9.5.3.2.1_p1,['Guinea']
+ar6/test/wg2/chapter-12#12.6.1_p5,['Guinea']
+ar6/test/wg2/chapter-15#15.3.3.3_p9,|['Guinea', 'Papua New Guinea']|
+ar6/test/wg2/chapter-15#15.3.4.1_p2,|['Guinea', 'Papua New Guinea']|
+ar6/test/wg2/chapter-15#15.3.4.4_p3,|['Guinea', 'Papua New Guinea']|
+ar6/test/wg2/chapter-2#2.6.5.10_p5,|['Guinea', 'Papua New Guinea']|
+ar6/test/wg2/chapter-12#12.3.3.2_p1,['Venezuela']
+ar6/test/wg2/chapter-12#12.3.3.3_p1,['Venezuela']
+ar6/test/wg2/chapter-12#12.3.3.4_p3,['Venezuela']
+ar6/test/wg3/chapter-2#2.3.3_p5,['Venezuela']
+ar6/test/wg2/chapter-9#9.9.5.1_p7,['Egypt']
+ar6/test/wg2/chapter-15#15.3.4.2_p7,['Haiti']
+ar6/test/wg2/chapter-15#15.6.3_p1,['Haiti']
+ar6/test/wg2/chapter-7#7.2.7.2_p2,['Chad']
+ar6/test/wg2/chapter-9#9.5.5.2.2_p1,['Somalia']
+ar6/test/wg2/chapter-5#box-5.9:-desert-locust-case-study:-climate-as-compounding-effect-on-food-security_p1,|['Somalia', 'Saudi Arabia', 'Yemen']|
+ar6/test/wg2/chapter-10#box-10.4_p1,|['Tajikistan', 'Kazakhstan', 'Uzbekistan']|
+ar6/test/wg2/chapter-10#10.4.5.3_p3,|['Tajikistan', 'Kazakhstan', 'Uzbekistan']|
+ar6/test/wg2/chapter-10#10.4.5.3_p2,|['Saudi Arabia', 'Yemen']|
+ar6/test/wg2/chapter-10#10.5.3.2_p7,['Saudi Arabia']
+ar6/test/wg2/chapter-10#10.4.1.1_p6,|['Syria', 'Iraq']|
+ar6/test/wg2/chapter-9#9.5.2.2.1_p1,|['Morocco', 'Algeria', 'Tunisia']|
+ar6/test/wg2/chapter-9#9.7.2.1_p3,['Morocco']
+ar6/test/wg2/chapter-2#2.5.2.3_p2,['Morocco']
+ar6/test/wg2/chapter-9#9.5.6.1.2_p1,['Angola']
+ar6/test/wg2/chapter-4#4.2.8_p5,['Algeria']
+ar6/test/wg2/chapter-9#9.8.1_p4,['Tunisia']
+ar6/test/wg2/chapter-9#9.8.2.4_p6,['Tunisia']
+ar6/test/wg2/chapter-8#8.2.1.5_p1,['Mali']
+ar6/test/wg2/chapter-8#8.6.1.2.1_p2,['Mali']
+ar6/test/wg2/chapter-5#5.5.3.4_p1,['Mali']
+ar6/test/wg2/chapter-8#8.6.1.2.3_p3,['Cameroon']
+ar6/test/wg2/chapter-10#10.4.2.1.1_p2,['Kazakhstan']
+ar6/test/wg2/chapter-10#10.4.2.1.4_p2,['Kazakhstan']
+ar6/test/wg2/chapter-10#10.4.5.2.3_p2,['Uzbekistan']
+ar6/test/wg2/chapter-15#15.5.4_p3,['Dominican Republic']
+ar6/test/wg2/chapter-15#15.6.3_p4,['Dominican Republic']
+ar6/test/wg2/chapter-15#15.3.4.3_p3,['Cuba']
+ar6/test/wg2/chapter-15#15.5.1_p1,['Cuba']
+|ar6/test/wg3/chapter-2#FAQ 2.2 || 	Are there countries that have reduced emissions and grown economically at the same time?_p1|,['Cuba']
